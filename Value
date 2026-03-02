@@ -1,5 +1,5 @@
 {
-    "version": 57,
+    "version": 58,
     "changed": true,
     "petsList": [
     {
@@ -26,21 +26,21 @@
     "id": 0
   },
   {
-    "rvalue": 80,
-    "nvalue": 255,
-    "mvalue": 890,
-    "rvalue - nopotion": 80,
-    "rvalue - ride": 81,
-    "rvalue - fly": 81,
-    "rvalue - fly&ride": 82,
-    "nvalue - nopotion": 267,
-    "nvalue - ride": 254.5,
-    "nvalue - fly": 254.5,
-    "nvalue - fly&ride": 255,
-    "mvalue - nopotion": 940,
-    "mvalue - ride": 889,
-    "mvalue - fly": 889,
-    "mvalue - fly&ride": 890,
+    "rvalue": 82,
+    "nvalue": 260,
+    "mvalue": 896,
+    "rvalue - nopotion": 82,
+    "rvalue - ride": 83,
+    "rvalue - fly": 83,
+    "rvalue - fly&ride": 84,
+    "nvalue - nopotion": 272,
+    "nvalue - ride": 259.5,
+    "nvalue - fly": 259.5,
+    "nvalue - fly&ride": 260,
+    "mvalue - nopotion": 946,
+    "mvalue - ride": 895,
+    "mvalue - fly": 895,
+    "mvalue - fly&ride": 896,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
     "type": "pets",
@@ -50,20 +50,20 @@
   },
   {
     "rvalue": 45,
-    "nvalue": 131,
-    "mvalue": 445,
+    "nvalue": 132,
+    "mvalue": 450,
     "rvalue - nopotion": 44.5,
     "rvalue - ride": 44.5,
     "rvalue - fly": 44.5,
     "rvalue - fly&ride": 45,
-    "nvalue - nopotion": 137,
-    "nvalue - ride": 130.5,
-    "nvalue - fly": 130.5,
-    "nvalue - fly&ride": 131,
-    "mvalue - nopotion": 475,
-    "mvalue - ride": 453,
-    "mvalue - fly": 453,
-    "mvalue - fly&ride": 445,
+    "nvalue - nopotion": 138,
+    "nvalue - ride": 131.5,
+    "nvalue - fly": 131.5,
+    "nvalue - fly&ride": 132,
+    "mvalue - nopotion": 480,
+    "mvalue - ride": 458,
+    "mvalue - fly": 458,
+    "mvalue - fly&ride": 450,
     "fly&ride?": "\"true\"",
     "rarity": "ultra rare",
     "type": "pets",
@@ -279,44 +279,44 @@
     "id": 11
   },
   {
-    "rvalue": 4,
-    "nvalue": 20,
-    "mvalue": 88,
-    "rvalue - nopotion": 4,
-    "rvalue - ride": 4.25,
-    "rvalue - fly": 4.25,
-    "rvalue - fly&ride": 4.5,
-    "nvalue - nopotion": 19,
-    "nvalue - ride": 19.5,
-    "nvalue - fly": 19.5,
-    "nvalue - fly&ride": 20,
-    "mvalue - nopotion": 86,
-    "mvalue - ride": 87,
-    "mvalue - fly": 87,
-    "mvalue - fly&ride": 88,
-    "fly&ride?": "\"false\"",
-    "rarity": "ultra rare",
-    "type": "pets",
-    "name": "Purple Butterfly",
-    "score": 27,
-    "id": 12
-  },
-  {
     "rvalue": 3.75,
-    "nvalue": 18,
-    "mvalue": 78,
+    "nvalue": 18.5,
+    "mvalue": 82,
     "rvalue - nopotion": 3.75,
     "rvalue - ride": 4,
     "rvalue - fly": 4,
     "rvalue - fly&ride": 4.25,
-    "nvalue - nopotion": 17,
-    "nvalue - ride": 17.5,
-    "nvalue - fly": 17.5,
-    "nvalue - fly&ride": 18,
-    "mvalue - nopotion": 76,
-    "mvalue - ride": 77,
-    "mvalue - fly": 77,
-    "mvalue - fly&ride": 78,
+    "nvalue - nopotion": 17.5,
+    "nvalue - ride": 18,
+    "nvalue - fly": 18,
+    "nvalue - fly&ride": 18.5,
+    "mvalue - nopotion": 80,
+    "mvalue - ride": 81,
+    "mvalue - fly": 81,
+    "mvalue - fly&ride": 82,
+    "fly&ride?": "\"false\"",
+    "rarity": "ultra rare",
+    "type": "pets",
+    "name": "Purple Butterfly",
+    "score": 30,
+    "id": 12
+  },
+  {
+    "rvalue": 3.75,
+    "nvalue": 17.5,
+    "mvalue": 76,
+    "rvalue - nopotion": 3.75,
+    "rvalue - ride": 4,
+    "rvalue - fly": 4,
+    "rvalue - fly&ride": 4.25,
+    "nvalue - nopotion": 16.5,
+    "nvalue - ride": 17,
+    "nvalue - fly": 17,
+    "nvalue - fly&ride": 17.5,
+    "mvalue - nopotion": 74,
+    "mvalue - ride": 75,
+    "mvalue - fly": 75,
+    "mvalue - fly&ride": 76,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
     "type": "pets",
@@ -390,7 +390,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Honey Badger",
-    "score": 30,
+    "score": 29,
     "id": 16
   },
   {
@@ -417,21 +417,21 @@
     "id": 17
   },
   {
-    "rvalue": 3,
-    "nvalue": 13,
-    "mvalue": 56,
-    "rvalue - nopotion": 3,
-    "rvalue - ride": 3.25,
-    "rvalue - fly": 3.25,
-    "rvalue - fly&ride": 3.5,
-    "nvalue - nopotion": 12,
-    "nvalue - ride": 12.5,
-    "nvalue - fly": 12.5,
-    "nvalue - fly&ride": 13,
-    "mvalue - nopotion": 54,
-    "mvalue - ride": 55,
-    "mvalue - fly": 55,
-    "mvalue - fly&ride": 56,
+    "rvalue": 2.75,
+    "nvalue": 12,
+    "mvalue": 52,
+    "rvalue - nopotion": 2.75,
+    "rvalue - ride": 3,
+    "rvalue - fly": 3,
+    "rvalue - fly&ride": 3.25,
+    "nvalue - nopotion": 11,
+    "nvalue - ride": 11.5,
+    "nvalue - fly": 11.5,
+    "nvalue - fly&ride": 12,
+    "mvalue - nopotion": 50,
+    "mvalue - ride": 51,
+    "mvalue - fly": 51,
+    "mvalue - fly&ride": 52,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
     "type": "pets",
@@ -509,21 +509,21 @@
     "id": 21
   },
   {
-    "rvalue": 4.5,
-    "nvalue": 22.5,
-    "mvalue": 100,
-    "rvalue - nopotion": 4.5,
-    "rvalue - ride": 4.75,
-    "rvalue - fly": 4.75,
-    "rvalue - fly&ride": 5,
-    "nvalue - nopotion": 21.5,
-    "nvalue - ride": 22,
-    "nvalue - fly": 22,
-    "nvalue - fly&ride": 22.5,
-    "mvalue - nopotion": 98,
-    "mvalue - ride": 99,
-    "mvalue - fly": 99,
-    "mvalue - fly&ride": 100,
+    "rvalue": 4.75,
+    "nvalue": 23,
+    "mvalue": 102,
+    "rvalue - nopotion": 4.75,
+    "rvalue - ride": 5,
+    "rvalue - fly": 5,
+    "rvalue - fly&ride": 5.25,
+    "nvalue - nopotion": 22,
+    "nvalue - ride": 22.5,
+    "nvalue - fly": 22.5,
+    "nvalue - fly&ride": 23,
+    "mvalue - nopotion": 100,
+    "mvalue - ride": 101,
+    "mvalue - fly": 101,
+    "mvalue - fly&ride": 102,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
     "type": "pets",
@@ -574,7 +574,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Groundhog",
-    "score": 28,
+    "score": 27,
     "id": 24
   },
   {
@@ -625,20 +625,20 @@
   },
   {
     "rvalue": 4.5,
-    "nvalue": 21,
-    "mvalue": 93,
+    "nvalue": 20.5,
+    "mvalue": 85,
     "rvalue - nopotion": 4,
     "rvalue - ride": 4.25,
     "rvalue - fly": 4,
     "rvalue - fly&ride": 4.5,
-    "nvalue - nopotion": 21,
-    "nvalue - ride": 20.5,
-    "nvalue - fly": 20.5,
-    "nvalue - fly&ride": 21,
-    "mvalue - nopotion": 101,
-    "mvalue - ride": 92,
-    "mvalue - fly": 92,
-    "mvalue - fly&ride": 93,
+    "nvalue - nopotion": 20.5,
+    "nvalue - ride": 20,
+    "nvalue - fly": 20,
+    "nvalue - fly&ride": 20.5,
+    "mvalue - nopotion": 93,
+    "mvalue - ride": 84,
+    "mvalue - fly": 84,
+    "mvalue - fly&ride": 85,
     "fly&ride?": "\"true\"",
     "rarity": "ultra rare",
     "type": "pets",
@@ -647,26 +647,26 @@
     "id": 27
   },
   {
-    "rvalue": 3.25,
-    "nvalue": 16,
-    "mvalue": 68,
-    "rvalue - nopotion": 3.25,
-    "rvalue - ride": 3.5,
-    "rvalue - fly": 3.5,
-    "rvalue - fly&ride": 3.75,
-    "nvalue - nopotion": 15,
-    "nvalue - ride": 15.5,
-    "nvalue - fly": 15.5,
-    "nvalue - fly&ride": 16,
-    "mvalue - nopotion": 66,
-    "mvalue - ride": 67,
-    "mvalue - fly": 67,
-    "mvalue - fly&ride": 68,
+    "rvalue": 3,
+    "nvalue": 15,
+    "mvalue": 64,
+    "rvalue - nopotion": 3,
+    "rvalue - ride": 3.25,
+    "rvalue - fly": 3.25,
+    "rvalue - fly&ride": 3.5,
+    "nvalue - nopotion": 14,
+    "nvalue - ride": 14.5,
+    "nvalue - fly": 14.5,
+    "nvalue - fly&ride": 15,
+    "mvalue - nopotion": 62,
+    "mvalue - ride": 63,
+    "mvalue - fly": 63,
+    "mvalue - fly&ride": 64,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Christmas Pudding Pup",
-    "score": 32,
+    "score": 34,
     "id": 28
   },
   {
@@ -712,7 +712,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Happy Clam",
-    "score": 33,
+    "score": 32,
     "id": 30
   },
   {
@@ -810,7 +810,7 @@
   {
     "rvalue": 2.25,
     "nvalue": 12,
-    "mvalue": 52,
+    "mvalue": 50,
     "rvalue - nopotion": 2.25,
     "rvalue - ride": 2.5,
     "rvalue - fly": 2.5,
@@ -819,10 +819,10 @@
     "nvalue - ride": 11.5,
     "nvalue - fly": 11.5,
     "nvalue - fly&ride": 12,
-    "mvalue - nopotion": 50,
-    "mvalue - ride": 51,
-    "mvalue - fly": 51,
-    "mvalue - fly&ride": 52,
+    "mvalue - nopotion": 48,
+    "mvalue - ride": 49,
+    "mvalue - fly": 49,
+    "mvalue - fly&ride": 50,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
     "type": "pets",
@@ -1839,7 +1839,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Nightmare Owl",
-    "score": 105,
+    "score": 104,
     "id": 79
   },
   {
@@ -1862,7 +1862,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Evil Chickatrice",
-    "score": 104,
+    "score": 103,
     "id": 80
   },
   {
@@ -1885,7 +1885,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Evil Basilisk",
-    "score": 103,
+    "score": 102,
     "id": 81
   },
   {
@@ -2000,7 +2000,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Pumpkin Friend",
-    "score": 107,
+    "score": 106,
     "id": 86
   },
   {
@@ -2230,7 +2230,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Penguin",
-    "score": 108,
+    "score": 107,
     "id": 96
   },
   {
@@ -2414,7 +2414,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Gingerbread Hare",
-    "score": 106,
+    "score": 105,
     "id": 104
   },
   {
@@ -3449,7 +3449,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Alley Cat",
-    "score": 29,
+    "score": 28,
     "id": 149
   },
   {
@@ -3684,20 +3684,20 @@
   },
   {
     "rvalue": 0.6,
-    "nvalue": 4,
-    "mvalue": 17,
+    "nvalue": 3.75,
+    "mvalue": 16,
     "rvalue - nopotion": 0.6,
     "rvalue - ride": 0.85,
     "rvalue - fly": 0.85,
     "rvalue - fly&ride": 1.1,
-    "nvalue - nopotion": 3,
-    "nvalue - ride": 3.5,
-    "nvalue - fly": 3.5,
-    "nvalue - fly&ride": 4,
-    "mvalue - nopotion": 15,
-    "mvalue - ride": 16,
-    "mvalue - fly": 16,
-    "mvalue - fly&ride": 17,
+    "nvalue - nopotion": 2.75,
+    "nvalue - ride": 3.25,
+    "nvalue - fly": 3.25,
+    "nvalue - fly&ride": 3.75,
+    "mvalue - nopotion": 14,
+    "mvalue - ride": 15,
+    "mvalue - fly": 15,
+    "mvalue - fly&ride": 16,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
     "type": "pets",
@@ -4051,21 +4051,21 @@
     "id": 175
   },
   {
-    "rvalue": 75,
-    "nvalue": 250,
-    "mvalue": 900,
-    "rvalue - nopotion": 73,
-    "rvalue - ride": 74,
-    "rvalue - fly": 74,
-    "rvalue - fly&ride": 75,
-    "nvalue - nopotion": 255,
-    "nvalue - ride": 249,
-    "nvalue - fly": 249,
-    "nvalue - fly&ride": 250,
-    "mvalue - nopotion": 970,
-    "mvalue - ride": 899,
-    "mvalue - fly": 899,
-    "mvalue - fly&ride": 900,
+    "rvalue": 77,
+    "nvalue": 256,
+    "mvalue": 905,
+    "rvalue - nopotion": 75,
+    "rvalue - ride": 76,
+    "rvalue - fly": 76,
+    "rvalue - fly&ride": 77,
+    "nvalue - nopotion": 261,
+    "nvalue - ride": 255,
+    "nvalue - fly": 255,
+    "nvalue - fly&ride": 256,
+    "mvalue - nopotion": 977,
+    "mvalue - ride": 904,
+    "mvalue - fly": 904,
+    "mvalue - fly&ride": 905,
     "fly&ride?": "\"true\"",
     "rarity": "legendary",
     "type": "pets",
@@ -4075,20 +4075,20 @@
   },
   {
     "rvalue": 48,
-    "nvalue": 175,
-    "mvalue": 708,
+    "nvalue": 174,
+    "mvalue": 700,
     "rvalue - nopotion": 46,
     "rvalue - ride": 47,
     "rvalue - fly": 47,
     "rvalue - fly&ride": 48,
-    "nvalue - nopotion": 180,
-    "nvalue - ride": 174,
-    "nvalue - fly": 174,
-    "nvalue - fly&ride": 175,
-    "mvalue - nopotion": 760,
-    "mvalue - ride": 707,
-    "mvalue - fly": 707,
-    "mvalue - fly&ride": 708,
+    "nvalue - nopotion": 179,
+    "nvalue - ride": 173,
+    "nvalue - fly": 173,
+    "nvalue - fly&ride": 174,
+    "mvalue - nopotion": 752,
+    "mvalue - ride": 699,
+    "mvalue - fly": 699,
+    "mvalue - fly&ride": 700,
     "fly&ride?": "\"true\"",
     "rarity": "legendary",
     "type": "pets",
@@ -4259,20 +4259,20 @@
   },
   {
     "rvalue": 17.25,
-    "nvalue": 74,
-    "mvalue": 302,
+    "nvalue": 74.5,
+    "mvalue": 305,
     "rvalue - nopotion": 17.25,
     "rvalue - ride": 17.5,
     "rvalue - fly": 17.5,
     "rvalue - fly&ride": 17.85,
-    "nvalue - nopotion": 72,
-    "nvalue - ride": 73,
-    "nvalue - fly": 73,
-    "nvalue - fly&ride": 74,
-    "mvalue - nopotion": 307,
-    "mvalue - ride": 301,
-    "mvalue - fly": 301,
-    "mvalue - fly&ride": 302,
+    "nvalue - nopotion": 72.5,
+    "nvalue - ride": 73.5,
+    "nvalue - fly": 73.5,
+    "nvalue - fly&ride": 74.5,
+    "mvalue - nopotion": 310,
+    "mvalue - ride": 304,
+    "mvalue - fly": 304,
+    "mvalue - fly&ride": 305,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
@@ -4396,21 +4396,21 @@
     "id": 190
   },
   {
-    "rvalue": 28,
-    "nvalue": 116,
-    "mvalue": 470,
-    "rvalue - nopotion": 27.5,
-    "rvalue - ride": 27.5,
-    "rvalue - fly": 27.5,
-    "rvalue - fly&ride": 28,
-    "nvalue - nopotion": 114,
-    "nvalue - ride": 115,
-    "nvalue - fly": 115,
-    "nvalue - fly&ride": 116,
-    "mvalue - nopotion": 480,
-    "mvalue - ride": 469,
-    "mvalue - fly": 469,
-    "mvalue - fly&ride": 470,
+    "rvalue": 28.5,
+    "nvalue": 118,
+    "mvalue": 478,
+    "rvalue - nopotion": 28,
+    "rvalue - ride": 28,
+    "rvalue - fly": 28,
+    "rvalue - fly&ride": 28.5,
+    "nvalue - nopotion": 116,
+    "nvalue - ride": 117,
+    "nvalue - fly": 117,
+    "nvalue - fly&ride": 118,
+    "mvalue - nopotion": 488,
+    "mvalue - ride": 477,
+    "mvalue - fly": 477,
+    "mvalue - fly&ride": 478,
     "fly&ride?": "\"true\"",
     "rarity": "legendary",
     "type": "pets",
@@ -4443,20 +4443,20 @@
   },
   {
     "rvalue": 9.75,
-    "nvalue": 42,
-    "mvalue": 176,
+    "nvalue": 42.5,
+    "mvalue": 178,
     "rvalue - nopotion": 9.75,
     "rvalue - ride": 10,
     "rvalue - fly": 10,
     "rvalue - fly&ride": 10.35,
-    "nvalue - nopotion": 40,
-    "nvalue - ride": 41,
-    "nvalue - fly": 41,
-    "nvalue - fly&ride": 42,
-    "mvalue - nopotion": 186,
-    "mvalue - ride": 175.5,
-    "mvalue - fly": 175.5,
-    "mvalue - fly&ride": 176,
+    "nvalue - nopotion": 40.5,
+    "nvalue - ride": 41.5,
+    "nvalue - fly": 41.5,
+    "nvalue - fly&ride": 42.5,
+    "mvalue - nopotion": 188,
+    "mvalue - ride": 177.5,
+    "mvalue - fly": 177.5,
+    "mvalue - fly&ride": 178,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
@@ -4898,7 +4898,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Naughty Mistletroll",
-    "score": 98,
+    "score": 97,
     "id": 212
   },
   {
@@ -5013,7 +5013,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Hippogriff",
-    "score": 111,
+    "score": 112,
     "id": 217
   },
   {
@@ -5266,7 +5266,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Queen Bee",
-    "score": 95,
+    "score": 93,
     "id": 228
   },
   {
@@ -5312,7 +5312,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Albino Gorilla",
-    "score": 92,
+    "score": 90,
     "id": 230
   },
   {
@@ -5335,7 +5335,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Ninja Monkey",
-    "score": 100,
+    "score": 99,
     "id": 231
   },
   {
@@ -5358,7 +5358,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Capricorn",
-    "score": 104,
+    "score": 103,
     "id": 232
   },
   {
@@ -5381,7 +5381,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Skele-Rex",
-    "score": 105,
+    "score": 104,
     "id": 233
   },
   {
@@ -5404,7 +5404,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Rainbow Dragon",
-    "score": 103,
+    "score": 102,
     "id": 234
   },
   {
@@ -5427,25 +5427,25 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Golden Penguin",
-    "score": 94,
+    "score": 92,
     "id": 235
   },
   {
-    "rvalue": 6,
-    "nvalue": 29,
-    "mvalue": 126,
-    "rvalue - nopotion": 6,
-    "rvalue - ride": 6.25,
-    "rvalue - fly": 6.25,
-    "rvalue - fly&ride": 6.6,
-    "nvalue - nopotion": 27,
-    "nvalue - ride": 28,
-    "nvalue - fly": 28,
-    "nvalue - fly&ride": 29,
-    "mvalue - nopotion": 129,
-    "mvalue - ride": 125,
-    "mvalue - fly": 125,
-    "mvalue - fly&ride": 126,
+    "rvalue": 6.25,
+    "nvalue": 29.5,
+    "mvalue": 128,
+    "rvalue - nopotion": 6.25,
+    "rvalue - ride": 6.5,
+    "rvalue - fly": 6.5,
+    "rvalue - fly&ride": 6.85,
+    "nvalue - nopotion": 27.5,
+    "nvalue - ride": 28.5,
+    "nvalue - fly": 28.5,
+    "nvalue - fly&ride": 29.5,
+    "mvalue - nopotion": 131,
+    "mvalue - ride": 127,
+    "mvalue - fly": 127,
+    "mvalue - fly&ride": 128,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
@@ -5496,13 +5496,13 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Phoenix",
-    "score": 106,
+    "score": 105,
     "id": 238
   },
   {
     "rvalue": 2.5,
     "nvalue": 14,
-    "mvalue": 42,
+    "mvalue": 41,
     "rvalue - nopotion": 2.5,
     "rvalue - ride": 3,
     "rvalue - fly": 3,
@@ -5511,10 +5511,10 @@
     "nvalue - ride": 12.75,
     "nvalue - fly": 12.75,
     "nvalue - fly&ride": 14,
-    "mvalue - nopotion": 40,
-    "mvalue - ride": 41,
-    "mvalue - fly": 41,
-    "mvalue - fly&ride": 42,
+    "mvalue - nopotion": 39,
+    "mvalue - ride": 40,
+    "mvalue - fly": 40,
+    "mvalue - fly&ride": 41,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
@@ -5523,26 +5523,26 @@
     "id": 239
   },
   {
-    "rvalue": 7,
-    "nvalue": 32.5,
-    "mvalue": 140,
-    "rvalue - nopotion": 7,
-    "rvalue - ride": 7.25,
-    "rvalue - fly": 7.25,
-    "rvalue - fly&ride": 7.6,
-    "nvalue - nopotion": 30.5,
-    "nvalue - ride": 31.5,
-    "nvalue - fly": 31.5,
-    "nvalue - fly&ride": 32.5,
-    "mvalue - nopotion": 138,
-    "mvalue - ride": 139,
-    "mvalue - fly": 139,
-    "mvalue - fly&ride": 140,
+    "rvalue": 7.25,
+    "nvalue": 33,
+    "mvalue": 142,
+    "rvalue - nopotion": 7.25,
+    "rvalue - ride": 7.5,
+    "rvalue - fly": 7.5,
+    "rvalue - fly&ride": 7.85,
+    "nvalue - nopotion": 31,
+    "nvalue - ride": 32,
+    "nvalue - fly": 32,
+    "nvalue - fly&ride": 33,
+    "mvalue - nopotion": 140,
+    "mvalue - ride": 141,
+    "mvalue - fly": 141,
+    "mvalue - fly&ride": 142,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Field Mouse",
-    "score": 38,
+    "score": 37,
     "id": 240
   },
   {
@@ -5565,7 +5565,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Green Butterfly",
-    "score": 93,
+    "score": 91,
     "id": 241
   },
   {
@@ -5611,7 +5611,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Cuddly Candle",
-    "score": 115,
+    "score": 116,
     "id": 243
   },
   {
@@ -5680,7 +5680,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Glormy Hound",
-    "score": 99,
+    "score": 98,
     "id": 246
   },
   {
@@ -5868,26 +5868,26 @@
     "id": 254
   },
   {
-    "rvalue": 1,
-    "nvalue": 8,
-    "mvalue": 36,
-    "rvalue - nopotion": 1,
-    "rvalue - ride": 1.25,
-    "rvalue - fly": 1.25,
-    "rvalue - fly&ride": 1.6,
-    "nvalue - nopotion": 6.5,
-    "nvalue - ride": 7.25,
-    "nvalue - fly": 7.25,
-    "nvalue - fly&ride": 8,
-    "mvalue - nopotion": 33.5,
-    "mvalue - ride": 34.75,
-    "mvalue - fly": 34.75,
-    "mvalue - fly&ride": 36,
+    "rvalue": 1.15,
+    "nvalue": 8.5,
+    "mvalue": 39,
+    "rvalue - nopotion": 1.15,
+    "rvalue - ride": 1.4,
+    "rvalue - fly": 1.4,
+    "rvalue - fly&ride": 1.75,
+    "nvalue - nopotion": 7,
+    "nvalue - ride": 7.75,
+    "nvalue - fly": 7.75,
+    "nvalue - fly&ride": 8.5,
+    "mvalue - nopotion": 36.5,
+    "mvalue - ride": 37.75,
+    "mvalue - fly": 37.75,
+    "mvalue - fly&ride": 39,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Cheetah",
-    "score": 116,
+    "score": 108,
     "id": 255
   },
   {
@@ -5910,7 +5910,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Leviathan",
-    "score": 97,
+    "score": 96,
     "id": 256
   },
   {
@@ -5979,7 +5979,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Jousting Horse",
-    "score": 108,
+    "score": 109,
     "id": 259
   },
   {
@@ -6094,7 +6094,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Tree Kangaroo",
-    "score": 96,
+    "score": 95,
     "id": 264
   },
   {
@@ -6186,7 +6186,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Golden Walrus",
-    "score": 109,
+    "score": 110,
     "id": 268
   },
   {
@@ -6209,7 +6209,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Firefly",
-    "score": 114,
+    "score": 115,
     "id": 269
   },
   {
@@ -6278,7 +6278,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Astronaut Gorilla",
-    "score": 110,
+    "score": 111,
     "id": 272
   },
   {
@@ -8371,7 +8371,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Nebula Snake",
-    "score": 62,
+    "score": 60,
     "id": 363
   },
   {
@@ -8394,7 +8394,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Blossom Snake",
-    "score": 61,
+    "score": 59,
     "id": 364
   },
   {
@@ -8417,7 +8417,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Prism Snake",
-    "score": 63,
+    "score": 61,
     "id": 365
   },
   {
@@ -8739,7 +8739,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Nutcracker Squirrel",
-    "score": 66,
+    "score": 64,
     "id": 379
   },
   {
@@ -8923,7 +8923,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Feesh",
-    "score": 64,
+    "score": 62,
     "id": 387
   },
   {
@@ -8946,7 +8946,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Punk Pony",
-    "score": 69,
+    "score": 67,
     "id": 388
   },
   {
@@ -9268,7 +9268,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Eggnog Hare",
-    "score": 68,
+    "score": 66,
     "id": 402
   },
   {
@@ -9498,7 +9498,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Bloodhound",
-    "score": 67,
+    "score": 65,
     "id": 412
   },
   {
@@ -9981,7 +9981,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Red Fox",
-    "score": 70,
+    "score": 68,
     "id": 433
   },
   {
@@ -10050,7 +10050,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Yellow Butterfly",
-    "score": 72,
+    "score": 70,
     "id": 436
   },
   {
@@ -10464,7 +10464,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Ratatoskr",
-    "score": 32,
+    "score": 33,
     "id": 454
   },
   {
@@ -10510,7 +10510,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Hopbop",
-    "score": 20,
+    "score": 21,
     "id": 456
   },
   {
@@ -10556,7 +10556,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Tasmanian Tiger",
-    "score": 16,
+    "score": 17,
     "id": 458
   },
   {
@@ -10579,7 +10579,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Ground Sloth",
-    "score": 14,
+    "score": 15,
     "id": 459
   },
   {
@@ -10625,7 +10625,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Urchin",
-    "score": 17,
+    "score": 18,
     "id": 461
   },
   {
@@ -10648,7 +10648,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Brachiosaurus",
-    "score": 27,
+    "score": 29,
     "id": 462
   },
   {
@@ -10694,7 +10694,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Garden Snake",
-    "score": 40,
+    "score": 42,
     "id": 464
   },
   {
@@ -10717,7 +10717,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Kid Goat",
-    "score": 31,
+    "score": 32,
     "id": 465
   },
   {
@@ -10740,7 +10740,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Mongoose",
-    "score": 15,
+    "score": 16,
     "id": 466
   },
   {
@@ -10763,7 +10763,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Bali Starling",
-    "score": 36,
+    "score": 38,
     "id": 467
   },
   {
@@ -10786,7 +10786,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Stingray",
-    "score": 23,
+    "score": 24,
     "id": 468
   },
   {
@@ -10809,7 +10809,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Wolpertinger",
-    "score": 34,
+    "score": 36,
     "id": 469
   },
   {
@@ -10924,7 +10924,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Malaysian Tapir",
-    "score": 22,
+    "score": 23,
     "id": 474
   },
   {
@@ -10947,13 +10947,13 @@
     "rarity": "common",
     "type": "pets",
     "name": "Flying Fish",
-    "score": 29,
+    "score": 30,
     "id": 475
   },
   {
     "rvalue": 0.04,
     "nvalue": 0.7,
-    "mvalue": 2.5,
+    "mvalue": 2.75,
     "rvalue - nopotion": 0.04,
     "rvalue - ride": 0.24,
     "rvalue - fly": 0.24,
@@ -10962,15 +10962,15 @@
     "nvalue - ride": 0.575,
     "nvalue - fly": 0.575,
     "nvalue - fly&ride": 0.7,
-    "mvalue - nopotion": 2,
-    "mvalue - ride": 2.25,
-    "mvalue - fly": 2.25,
-    "mvalue - fly&ride": 2.5,
+    "mvalue - nopotion": 2.25,
+    "mvalue - ride": 2.5,
+    "mvalue - fly": 2.5,
+    "mvalue - fly&ride": 2.75,
     "fly&ride?": "\"false\"",
     "rarity": "common",
     "type": "pets",
     "name": "Bullfrog",
-    "score": 28,
+    "score": 25,
     "id": 476
   },
   {
@@ -10993,7 +10993,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Bandicoot",
-    "score": 26,
+    "score": 28,
     "id": 477
   },
   {
@@ -11016,7 +11016,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Angelfish",
-    "score": 35,
+    "score": 37,
     "id": 478
   },
   {
@@ -11039,7 +11039,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Show Pony",
-    "score": 33,
+    "score": 34,
     "id": 479
   },
   {
@@ -11062,7 +11062,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Frankenfeline",
-    "score": 39,
+    "score": 41,
     "id": 480
   },
   {
@@ -11085,7 +11085,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Bluebottle Fly",
-    "score": 38,
+    "score": 40,
     "id": 481
   },
   {
@@ -11108,7 +11108,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Armadillo",
-    "score": 25,
+    "score": 26,
     "id": 482
   },
   {
@@ -11131,7 +11131,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Sandfish",
-    "score": 44,
+    "score": 46,
     "id": 483
   },
   {
@@ -11154,7 +11154,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Beluga Whale",
-    "score": 37,
+    "score": 39,
     "id": 484
   },
   {
@@ -11177,7 +11177,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Mosquito",
-    "score": 41,
+    "score": 43,
     "id": 485
   },
   {
@@ -11200,7 +11200,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Sado Mole",
-    "score": 43,
+    "score": 45,
     "id": 486
   },
   {
@@ -11223,7 +11223,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Mouse",
-    "score": 45,
+    "score": 47,
     "id": 487
   },
   {
@@ -11246,7 +11246,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Piranha",
-    "score": 42,
+    "score": 44,
     "id": 488
   },
   {
@@ -11269,7 +11269,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Buffalo",
-    "score": 47,
+    "score": 49,
     "id": 489
   },
   {
@@ -11292,7 +11292,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Ant",
-    "score": 46,
+    "score": 48,
     "id": 490
   },
   {
@@ -11315,7 +11315,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Otter",
-    "score": 48,
+    "score": 50,
     "id": 491
   },
   {
@@ -11338,7 +11338,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Dog",
-    "score": 50,
+    "score": 52,
     "id": 492
   },
   {
@@ -11361,7 +11361,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Cat",
-    "score": 49,
+    "score": 51,
     "id": 493
   },
   {
@@ -11591,7 +11591,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Mistletroll",
-    "score": 45,
+    "score": 47,
     "id": 503
   },
   {
@@ -11614,7 +11614,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Snorgle",
-    "score": 71,
+    "score": 73,
     "id": 504
   },
   {
@@ -11683,7 +11683,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Chickatrice",
-    "score": 31,
+    "score": 32,
     "id": 507
   },
   {
@@ -11729,7 +11729,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Dingo",
-    "score": 43,
+    "score": 45,
     "id": 509
   },
   {
@@ -11821,7 +11821,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Birthday Butterfly 2024",
-    "score": 35,
+    "score": 36,
     "id": 513
   },
   {
@@ -11867,7 +11867,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Birthday Butterfly 2023",
-    "score": 34,
+    "score": 35,
     "id": 515
   },
   {
@@ -11890,7 +11890,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Triceratops",
-    "score": 42,
+    "score": 44,
     "id": 516
   },
   {
@@ -11913,7 +11913,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Poodle",
-    "score": 50,
+    "score": 52,
     "id": 517
   },
   {
@@ -11959,7 +11959,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Sea Skeleton Panda",
-    "score": 48,
+    "score": 50,
     "id": 519
   },
   {
@@ -11982,7 +11982,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Stegosaurus",
-    "score": 41,
+    "score": 43,
     "id": 520
   },
   {
@@ -12028,7 +12028,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Dracula Fish",
-    "score": 49,
+    "score": 51,
     "id": 522
   },
   {
@@ -12097,7 +12097,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Mole",
-    "score": 59,
+    "score": 61,
     "id": 525
   },
   {
@@ -12166,7 +12166,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Dolphin",
-    "score": 38,
+    "score": 40,
     "id": 528
   },
   {
@@ -12189,7 +12189,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Crab",
-    "score": 37,
+    "score": 39,
     "id": 529
   },
   {
@@ -12235,7 +12235,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Rodeo Bull",
-    "score": 47,
+    "score": 49,
     "id": 531
   },
   {
@@ -12281,7 +12281,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Black Marlin",
-    "score": 67,
+    "score": 69,
     "id": 533
   },
   {
@@ -12350,7 +12350,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Arctic Tern",
-    "score": 44,
+    "score": 46,
     "id": 536
   },
   {
@@ -12373,7 +12373,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Possum",
-    "score": 46,
+    "score": 48,
     "id": 537
   },
   {
@@ -12396,7 +12396,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Slug",
-    "score": 51,
+    "score": 53,
     "id": 538
   },
   {
@@ -12442,7 +12442,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Kirin",
-    "score": 54,
+    "score": 56,
     "id": 540
   },
   {
@@ -12465,7 +12465,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Rhino Beetle",
-    "score": 60,
+    "score": 62,
     "id": 541
   },
   {
@@ -12511,7 +12511,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Rattlesnake",
-    "score": 65,
+    "score": 67,
     "id": 543
   },
   {
@@ -12534,7 +12534,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Gila Monster",
-    "score": 62,
+    "score": 64,
     "id": 544
   },
   {
@@ -12557,7 +12557,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Velociraptor",
-    "score": 72,
+    "score": 74,
     "id": 545
   },
   {
@@ -12603,7 +12603,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Halloween Blue Scorpion",
-    "score": 68,
+    "score": 70,
     "id": 547
   },
   {
@@ -12626,7 +12626,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Yellow-Lipped Sea Krait",
-    "score": 66,
+    "score": 68,
     "id": 548
   },
   {
@@ -12649,7 +12649,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Red Cardinal",
-    "score": 69,
+    "score": 71,
     "id": 549
   },
   {
@@ -12672,7 +12672,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Hermit Crab",
-    "score": 63,
+    "score": 65,
     "id": 550
   },
   {
@@ -12695,7 +12695,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Arctic Hare",
-    "score": 39,
+    "score": 41,
     "id": 551
   },
   {
@@ -12741,7 +12741,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Frogspawn",
-    "score": 52,
+    "score": 54,
     "id": 553
   },
   {
@@ -12764,7 +12764,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Mahi Mahi",
-    "score": 79,
+    "score": 81,
     "id": 554
   },
   {
@@ -12787,7 +12787,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Banded Palm Civet",
-    "score": 61,
+    "score": 63,
     "id": 555
   },
   {
@@ -12810,7 +12810,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Halloween Black Mummy Cat",
-    "score": 77,
+    "score": 79,
     "id": 556
   },
   {
@@ -12833,7 +12833,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Angler Fish",
-    "score": 74,
+    "score": 76,
     "id": 557
   },
   {
@@ -12856,7 +12856,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Borhyaena Gigantica",
-    "score": 75,
+    "score": 77,
     "id": 558
   },
   {
@@ -12879,7 +12879,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Fossa",
-    "score": 40,
+    "score": 42,
     "id": 559
   },
   {
@@ -12902,7 +12902,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Tawny Frogmouth",
-    "score": 73,
+    "score": 75,
     "id": 560
   },
   {
@@ -12925,7 +12925,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Rock Pigeon",
-    "score": 76,
+    "score": 78,
     "id": 561
   },
   {
@@ -12948,7 +12948,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Donkey",
-    "score": 81,
+    "score": 83,
     "id": 562
   },
   {
@@ -12971,7 +12971,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Snow Cat",
-    "score": 86,
+    "score": 88,
     "id": 563
   },
   {
@@ -12994,7 +12994,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Fennec Fox",
-    "score": 84,
+    "score": 86,
     "id": 564
   },
   {
@@ -13017,7 +13017,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Chocolate Labrador",
-    "score": 83,
+    "score": 85,
     "id": 565
   },
   {
@@ -13040,7 +13040,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Puma",
-    "score": 85,
+    "score": 87,
     "id": 566
   },
   {
@@ -13063,7 +13063,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Camel",
-    "score": 82,
+    "score": 84,
     "id": 567
   },
   {
@@ -13353,14 +13353,12 @@
     "rarity": "none"
   },
   {
-    "c": "Elf Hat",
-    "value": 3,
-    "raity": "rare",
-    "type": "pet wear",
+    "value": 2.5,
+    "rarity": "rare",
+    "type": "Pet Wear",
     "name": "Elf Hat",
     "score": 30,
-    "id": 603,
-    "rarity": "none"
+    "id": 603
   },
   {
     "value": 2.25,
@@ -14110,7 +14108,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Tri-Horned Treehopper",
-    "score": 34,
+    "score": 33,
     "id": 674
   },
   {
@@ -14294,7 +14292,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Hero Gibbon",
-    "score": 101,
+    "score": 100,
     "id": 682
   },
   {
@@ -14340,7 +14338,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Scorching Kaijunior",
-    "score": 102,
+    "score": 101,
     "id": 684
   },
   {
@@ -14478,7 +14476,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Mecha R4BBIT",
-    "score": 65,
+    "score": 63,
     "id": 690
   },
   {
@@ -14547,7 +14545,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Bakeneko",
-    "score": 19,
+    "score": 20,
     "id": 693
   },
   {
@@ -14570,7 +14568,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Kaijunior",
-    "score": 58,
+    "score": 60,
     "id": 694
   },
   {
@@ -14616,7 +14614,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Papa Moose",
-    "score": 37,
+    "score": 38,
     "id": 696
   },
   {
@@ -14662,7 +14660,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Muskrat",
-    "score": 78,
+    "score": 80,
     "id": 698
   },
   {
@@ -15721,7 +15719,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Prismatic Butterfly",
-    "score": 112,
+    "score": 113,
     "id": 818
   },
   {
@@ -15744,7 +15742,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Violet Butterfly",
-    "score": 113,
+    "score": 114,
     "id": 819
   },
   {
@@ -18984,7 +18982,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Hammerhead Shark",
-    "score": 56,
+    "score": 58,
     "id": 1189
   },
   {
@@ -20615,13 +20613,12 @@
     "rarity": "none"
   },
   {
-    "value": 0.1,
-    "raity": "uncommon",
-    "type": "pet wear",
+    "value": 0.5,
+    "rarity": "uncommon",
+    "type": "Pet Wear",
     "name": "Alien Eyes Hat",
     "score": 59,
-    "id": 1371,
-    "rarity": "none"
+    "id": 1371
   },
   {
     "value": 0.07,
@@ -24012,7 +24009,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Kelp Crewmate",
-    "score": 53,
+    "score": 55,
     "id": 1737
   },
   {
@@ -24058,7 +24055,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Island Tarsier",
-    "score": 21,
+    "score": 22,
     "id": 1739
   },
   {
@@ -30020,7 +30017,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Tree Frog",
-    "score": 80,
+    "score": 82,
     "id": 2475
   },
   {
@@ -30035,7 +30032,7 @@
   {
     "rvalue": 0.04,
     "nvalue": 0.7,
-    "mvalue": 3,
+    "mvalue": 2.5,
     "rvalue - nopotion": 0.04,
     "rvalue - ride": 0.24,
     "rvalue - fly": 0.24,
@@ -30044,15 +30041,15 @@
     "nvalue - ride": 0.575,
     "nvalue - fly": 0.575,
     "nvalue - fly&ride": 0.7,
-    "mvalue - nopotion": 2.5,
-    "mvalue - ride": 2.75,
-    "mvalue - fly": 2.75,
-    "mvalue - fly&ride": 3,
+    "mvalue - nopotion": 2,
+    "mvalue - ride": 2.25,
+    "mvalue - fly": 2.25,
+    "mvalue - fly&ride": 2.5,
     "fly&ride?": "\"false\"",
     "rarity": "common",
     "type": "pets",
     "name": "Tegu",
-    "score": 24,
+    "score": 35,
     "id": 2477
   },
   {
@@ -30550,26 +30547,26 @@
     "id": 2533
   },
   {
-    "rvalue": 57,
-    "nvalue": 220,
-    "mvalue": 900,
-    "rvalue - nopotion": 56,
-    "rvalue - ride": 56.5,
-    "rvalue - fly": 56.5,
-    "rvalue - fly&ride": 57,
-    "nvalue - nopotion": 218,
-    "nvalue - ride": 219,
-    "nvalue - fly": 219,
-    "nvalue - fly&ride": 220,
-    "mvalue - nopotion": 898,
-    "mvalue - ride": 899,
-    "mvalue - fly": 899,
-    "mvalue - fly&ride": 900,
+    "rvalue": 68,
+    "nvalue": 261,
+    "mvalue": 1040,
+    "rvalue - nopotion": 67,
+    "rvalue - ride": 67.5,
+    "rvalue - fly": 67.5,
+    "rvalue - fly&ride": 68,
+    "nvalue - nopotion": 259,
+    "nvalue - ride": 260,
+    "nvalue - fly": 260,
+    "nvalue - fly&ride": 261,
+    "mvalue - nopotion": 1038,
+    "mvalue - ride": 1039,
+    "mvalue - fly": 1039,
+    "mvalue - fly&ride": 1040,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Giant Panda",
-    "score": 12,
+    "score": 10,
     "id": 2534
   },
   {
@@ -30615,7 +30612,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "2025 Birthday Butterfly",
-    "score": 33,
+    "score": 34,
     "id": 2536
   },
   {
@@ -30755,7 +30752,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Patchy Bear",
-    "score": 55,
+    "score": 57,
     "id": 2546
   },
   {
@@ -30847,7 +30844,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Jumping Spider",
-    "score": 64,
+    "score": 66,
     "id": 2550
   },
   {
@@ -30874,21 +30871,21 @@
     "id": 2551
   },
   {
-    "rvalue": 60,
-    "nvalue": 138,
-    "mvalue": 453,
-    "rvalue - nopotion": 58,
-    "rvalue - ride": 59,
-    "rvalue - fly": 59,
-    "rvalue - fly&ride": 60,
-    "nvalue - nopotion": 136,
-    "nvalue - ride": 137,
-    "nvalue - fly": 137,
-    "nvalue - fly&ride": 138,
-    "mvalue - nopotion": 451,
-    "mvalue - ride": 452,
-    "mvalue - fly": 452,
-    "mvalue - fly&ride": 453,
+    "rvalue": 65,
+    "nvalue": 152,
+    "mvalue": 470,
+    "rvalue - nopotion": 63,
+    "rvalue - ride": 64,
+    "rvalue - fly": 64,
+    "rvalue - fly&ride": 65,
+    "nvalue - nopotion": 150,
+    "nvalue - ride": 151,
+    "nvalue - fly": 151,
+    "nvalue - fly&ride": 152,
+    "mvalue - nopotion": 468,
+    "mvalue - ride": 469,
+    "mvalue - fly": 469,
+    "mvalue - fly&ride": 470,
     "fly&ride?": "\"true\"",
     "rarity": "legendary",
     "type": "pets",
@@ -30922,7 +30919,7 @@
   {
     "rvalue": 0.04,
     "nvalue": 0.7,
-    "mvalue": 3,
+    "mvalue": 2.5,
     "rvalue - nopotion": 0.04,
     "rvalue - ride": 0.24,
     "rvalue - fly": 0.24,
@@ -30931,15 +30928,15 @@
     "nvalue - ride": 0.575,
     "nvalue - fly": 0.575,
     "nvalue - fly&ride": 0.7,
-    "mvalue - nopotion": 2.5,
-    "mvalue - ride": 2.75,
-    "mvalue - fly": 2.75,
-    "mvalue - fly&ride": 3,
+    "mvalue - nopotion": 2,
+    "mvalue - ride": 2.25,
+    "mvalue - fly": 2.25,
+    "mvalue - fly&ride": 2.5,
     "fly&ride?": "\"false\"",
     "rarity": "common",
     "type": "pets",
     "name": "Aye Aye",
-    "score": 18,
+    "score": 27,
     "id": 2554
   },
   {
@@ -31100,7 +31097,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Shih Tzu",
-    "score": 70,
+    "score": 72,
     "id": 2561
   },
   {
@@ -31380,7 +31377,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Humbug",
-    "score": 57,
+    "score": 59,
     "id": 2592
   },
   {
@@ -31403,7 +31400,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Tree Sasquatch",
-    "score": 73,
+    "score": 71,
     "id": 2593
   },
   {
@@ -31426,7 +31423,7 @@
     "rarity": "rare",
     "type": "pets",
     "name": "Turtle Doves",
-    "score": 71,
+    "score": 69,
     "id": 2594
   },
   {
@@ -31687,7 +31684,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Old King Coal",
-    "score": 32,
+    "score": 33,
     "id": 2606
   },
   {
@@ -31756,7 +31753,7 @@
     "rarity": "common",
     "type": "pets",
     "name": "Japanese Snow Fairy",
-    "score": 30,
+    "score": 31,
     "id": 2609
   },
   {
@@ -31998,7 +31995,7 @@
     "rarity": "uncommon",
     "type": "pets",
     "name": "Magpie",
-    "score": 36,
+    "score": 38,
     "id": 2624
   },
   {
@@ -32156,26 +32153,26 @@
     "id": 2632
   },
   {
-    "rvalue": 70,
-    "nvalue": 300,
-    "mvalue": 1300,
-    "rvalue - nopotion": 69,
-    "rvalue - ride": 69.5,
-    "rvalue - fly": 69.5,
-    "rvalue - fly&ride": 70,
-    "nvalue - nopotion": 298,
-    "nvalue - ride": 299,
-    "nvalue - fly": 299,
-    "nvalue - fly&ride": 300,
-    "mvalue - nopotion": 1298,
-    "mvalue - ride": 1299,
-    "mvalue - fly": 1299,
-    "mvalue - fly&ride": 1300,
+    "rvalue": 60,
+    "nvalue": 260,
+    "mvalue": 1120,
+    "rvalue - nopotion": 59,
+    "rvalue - ride": 59.5,
+    "rvalue - fly": 59.5,
+    "rvalue - fly&ride": 60,
+    "nvalue - nopotion": 258,
+    "nvalue - ride": 259,
+    "nvalue - fly": 259,
+    "nvalue - fly&ride": 260,
+    "mvalue - nopotion": 1118,
+    "mvalue - ride": 1119,
+    "mvalue - fly": 1119,
+    "mvalue - fly&ride": 1120,
     "fly&ride?": "\"true\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Silverback Gorilla",
-    "score": 10,
+    "score": 12,
     "id": 2633
   },
   {
@@ -32187,32 +32184,32 @@
     "id": 2634
   },
   {
-    "rvalue": 0.27,
-    "nvalue": 2.5,
-    "mvalue": 17,
-    "rvalue - nopotion": 0.27,
-    "rvalue - ride": 0.52,
-    "rvalue - fly": 0.52,
-    "rvalue - fly&ride": 0.77,
-    "nvalue - nopotion": 1.5,
-    "nvalue - ride": 2,
-    "nvalue - fly": 2,
-    "nvalue - fly&ride": 2.5,
-    "mvalue - nopotion": 15,
-    "mvalue - ride": 16,
-    "mvalue - fly": 16,
-    "mvalue - fly&ride": 17,
+    "rvalue": 0.25,
+    "nvalue": 2.25,
+    "mvalue": 13,
+    "rvalue - nopotion": 0.25,
+    "rvalue - ride": 0.5,
+    "rvalue - fly": 0.5,
+    "rvalue - fly&ride": 0.75,
+    "nvalue - nopotion": 1.25,
+    "nvalue - ride": 1.75,
+    "nvalue - fly": 1.75,
+    "nvalue - fly&ride": 2.25,
+    "mvalue - nopotion": 11,
+    "mvalue - ride": 12,
+    "mvalue - fly": 12,
+    "mvalue - fly&ride": 13,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Pangolin",
-    "score": 101,
+    "score": 108,
     "id": 2635
   },
   {
     "rvalue": 0.27,
     "nvalue": 2.5,
-    "mvalue": 16,
+    "mvalue": 15,
     "rvalue - nopotion": 0.27,
     "rvalue - ride": 0.52,
     "rvalue - fly": 0.52,
@@ -32221,108 +32218,200 @@
     "nvalue - ride": 2,
     "nvalue - fly": 2,
     "nvalue - fly&ride": 2.5,
-    "mvalue - nopotion": 14,
-    "mvalue - ride": 15,
-    "mvalue - fly": 15,
-    "mvalue - fly&ride": 16,
+    "mvalue - nopotion": 13,
+    "mvalue - ride": 14,
+    "mvalue - fly": 14,
+    "mvalue - fly&ride": 15,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Black-Footed Ferret",
-    "score": 102,
+    "score": 101,
     "id": 2636
   },
   {
-    "rvalue": 1.5,
-    "nvalue": 11,
-    "mvalue": 52,
-    "rvalue - nopotion": 1.5,
-    "rvalue - ride": 1.75,
-    "rvalue - fly": 1.75,
-    "rvalue - fly&ride": 2.1,
-    "nvalue - nopotion": 9,
-    "nvalue - ride": 10,
-    "nvalue - fly": 10,
-    "nvalue - fly&ride": 11,
-    "mvalue - nopotion": 50,
-    "mvalue - ride": 51,
-    "mvalue - fly": 51,
-    "mvalue - fly&ride": 52,
+    "rvalue": 1.15,
+    "nvalue": 9.5,
+    "mvalue": 42,
+    "rvalue - nopotion": 1.15,
+    "rvalue - ride": 1.4,
+    "rvalue - fly": 1.4,
+    "rvalue - fly&ride": 1.75,
+    "nvalue - nopotion": 7.5,
+    "nvalue - ride": 8.5,
+    "nvalue - fly": 8.5,
+    "nvalue - fly&ride": 9.5,
+    "mvalue - nopotion": 40,
+    "mvalue - ride": 41,
+    "mvalue - fly": 41,
+    "mvalue - fly&ride": 42,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Blue Whale",
-    "score": 90,
+    "score": 106,
     "id": 2637
   },
   {
-    "rvalue": 1.5,
-    "nvalue": 11,
-    "mvalue": 52,
-    "rvalue - nopotion": 1.5,
-    "rvalue - ride": 1.75,
-    "rvalue - fly": 1.75,
-    "rvalue - fly&ride": 2.1,
-    "nvalue - nopotion": 9,
-    "nvalue - ride": 10,
-    "nvalue - fly": 10,
-    "nvalue - fly&ride": 11,
-    "mvalue - nopotion": 50,
-    "mvalue - ride": 51,
-    "mvalue - fly": 51,
-    "mvalue - fly&ride": 52,
+    "rvalue": 1.25,
+    "nvalue": 10,
+    "mvalue": 46,
+    "rvalue - nopotion": 1.25,
+    "rvalue - ride": 1.5,
+    "rvalue - fly": 1.5,
+    "rvalue - fly&ride": 1.85,
+    "nvalue - nopotion": 8,
+    "nvalue - ride": 9,
+    "nvalue - fly": 9,
+    "nvalue - fly&ride": 10,
+    "mvalue - nopotion": 44,
+    "mvalue - ride": 45,
+    "mvalue - fly": 45,
+    "mvalue - fly&ride": 46,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Sea Turtle",
-    "score": 91,
+    "score": 94,
     "id": 2638
   },
   {
-    "rvalue": 0.1,
-    "nvalue": 1.75,
-    "mvalue": 8.5,
-    "rvalue - nopotion": 0.1,
-    "rvalue - ride": 0.35,
-    "rvalue - fly": 0.35,
-    "rvalue - fly&ride": 0.6,
-    "nvalue - nopotion": 1.25,
-    "nvalue - ride": 1.5,
-    "nvalue - fly": 1.5,
-    "nvalue - fly&ride": 1.75,
-    "mvalue - nopotion": 7.75,
-    "mvalue - ride": 8,
-    "mvalue - fly": 8,
-    "mvalue - fly&ride": 8.5,
+    "rvalue": 0.09,
+    "nvalue": 1.5,
+    "mvalue": 7,
+    "rvalue - nopotion": 0.09,
+    "rvalue - ride": 0.34,
+    "rvalue - fly": 0.34,
+    "rvalue - fly&ride": 0.59,
+    "nvalue - nopotion": 1,
+    "nvalue - ride": 1.25,
+    "nvalue - fly": 1.25,
+    "nvalue - fly&ride": 1.5,
+    "mvalue - nopotion": 6.25,
+    "mvalue - ride": 6.5,
+    "mvalue - fly": 6.5,
+    "mvalue - fly&ride": 7,
     "fly&ride?": "\"false\"",
     "rarity": "rare",
     "type": "pets",
     "name": "Mexican Wolf",
-    "score": 59,
+    "score": 73,
     "id": 2639
   },
   {
-    "rvalue": 0.1,
-    "nvalue": 1.75,
-    "mvalue": 8,
-    "rvalue - nopotion": 0.1,
-    "rvalue - ride": 0.35,
-    "rvalue - fly": 0.35,
-    "rvalue - fly&ride": 0.6,
-    "nvalue - nopotion": 1.25,
-    "nvalue - ride": 1.5,
-    "nvalue - fly": 1.5,
-    "nvalue - fly&ride": 1.75,
-    "mvalue - nopotion": 7.25,
-    "mvalue - ride": 7.5,
-    "mvalue - fly": 7.5,
-    "mvalue - fly&ride": 8,
+    "rvalue": 0.09,
+    "nvalue": 1.5,
+    "mvalue": 7,
+    "rvalue - nopotion": 0.09,
+    "rvalue - ride": 0.34,
+    "rvalue - fly": 0.34,
+    "rvalue - fly&ride": 0.59,
+    "nvalue - nopotion": 1,
+    "nvalue - ride": 1.25,
+    "nvalue - fly": 1.25,
+    "nvalue - fly&ride": 1.5,
+    "mvalue - nopotion": 6.25,
+    "mvalue - ride": 6.5,
+    "mvalue - fly": 6.5,
+    "mvalue - fly&ride": 7,
     "fly&ride?": "\"false\"",
     "rarity": "rare",
     "type": "pets",
     "name": "Black Rhino",
-    "score": 60,
+    "score": 72,
     "id": 2640
+  },
+  {
+    "rvalue": 0.05,
+    "nvalue": 0.8,
+    "mvalue": 3.5,
+    "rvalue - nopotion": 0.05,
+    "rvalue - ride": 0.25,
+    "rvalue - fly": 0.25,
+    "rvalue - fly&ride": 0.45,
+    "nvalue - nopotion": 0.55,
+    "nvalue - ride": 0.675,
+    "nvalue - fly": 0.675,
+    "nvalue - fly&ride": 0.8,
+    "mvalue - nopotion": 3,
+    "mvalue - ride": 3.25,
+    "mvalue - fly": 3.25,
+    "mvalue - fly&ride": 3.5,
+    "fly&ride?": "\"false\"",
+    "rarity": "common",
+    "type": "pets",
+    "name": "Galapagos Sea Lion",
+    "score": 14,
+    "id": 2641
+  },
+  {
+    "rvalue": 0.05,
+    "nvalue": 0.8,
+    "mvalue": 3.25,
+    "rvalue - nopotion": 0.05,
+    "rvalue - ride": 0.25,
+    "rvalue - fly": 0.25,
+    "rvalue - fly&ride": 0.45,
+    "nvalue - nopotion": 0.55,
+    "nvalue - ride": 0.675,
+    "nvalue - fly": 0.675,
+    "nvalue - fly&ride": 0.8,
+    "mvalue - nopotion": 2.75,
+    "mvalue - ride": 3,
+    "mvalue - fly": 3,
+    "mvalue - fly&ride": 3.25,
+    "fly&ride?": "\"false\"",
+    "rarity": "common",
+    "type": "pets",
+    "name": "California Condor",
+    "score": 19,
+    "id": 2642
+  },
+  {
+    "rvalue": 0.07,
+    "nvalue": 1.25,
+    "mvalue": 5,
+    "rvalue - nopotion": 0.07,
+    "rvalue - ride": 0.32,
+    "rvalue - fly": 0.32,
+    "rvalue - fly&ride": 0.5700000000000001,
+    "nvalue - nopotion": 0.9,
+    "nvalue - ride": 1.1,
+    "nvalue - fly": 1.1,
+    "nvalue - fly&ride": 1.25,
+    "mvalue - nopotion": 4.25,
+    "mvalue - ride": 4.5,
+    "mvalue - fly": 4.5,
+    "mvalue - fly&ride": 5,
+    "fly&ride?": "\"false\"",
+    "rarity": "uncommon",
+    "type": "pets",
+    "name": "Black Tiger",
+    "score": 31,
+    "id": 2643
+  },
+  {
+    "rvalue": 0.07,
+    "nvalue": 1.25,
+    "mvalue": 4.5,
+    "rvalue - nopotion": 0.07,
+    "rvalue - ride": 0.32,
+    "rvalue - fly": 0.32,
+    "rvalue - fly&ride": 0.5700000000000001,
+    "nvalue - nopotion": 0.9,
+    "nvalue - ride": 1.1,
+    "nvalue - fly": 1.1,
+    "nvalue - fly&ride": 1.25,
+    "mvalue - nopotion": 3.75,
+    "mvalue - ride": 4,
+    "mvalue - fly": 4,
+    "mvalue - fly&ride": 4.5,
+    "fly&ride?": "\"false\"",
+    "rarity": "uncommon",
+    "type": "pets",
+    "name": "Kakapo",
+    "score": 37,
+    "id": 2644
   }
  ]
 }
