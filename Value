@@ -1,5 +1,5 @@
 {
-    "version": 60,
+    "version": 62,
     "changed": true,
     "petsList": [
     {
@@ -3867,6 +3867,7 @@
     "id": 167
   },
   {
+    "b": "Shadow Dragon",
     "rvalue": 364,
     "nvalue": 846,
     "mvalue": 2020,
@@ -3878,7 +3879,7 @@
     "nvalue - ride": 979,
     "nvalue - fly": 931.5,
     "nvalue - fly&ride": 846,
-    "mvalue - nopotion": 3300,
+    "mvalue - nopotion": 3100,
     "mvalue - ride": 2520,
     "mvalue - fly": 2130,
     "mvalue - fly&ride": 2020,
@@ -4971,9 +4972,10 @@
     "id": 215
   },
   {
+    "b": "Grim Dragon",
     "rvalue": 4.25,
     "nvalue": 21,
-    "mvalue": 84,
+    "mvalue": 86,
     "rvalue - nopotion": 4.25,
     "rvalue - ride": 4.5,
     "rvalue - fly": 4.5,
@@ -4982,10 +4984,10 @@
     "nvalue - ride": 20,
     "nvalue - fly": 20,
     "nvalue - fly&ride": 21,
-    "mvalue - nopotion": 82,
-    "mvalue - ride": 83,
-    "mvalue - fly": 83,
-    "mvalue - fly&ride": 84,
+    "mvalue - nopotion": 84,
+    "mvalue - ride": 85,
+    "mvalue - fly": 85,
+    "mvalue - fly&ride": 86,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
@@ -5247,13 +5249,14 @@
     "id": 227
   },
   {
-    "rvalue": 1.45,
+    "b": "Queen Bee",
+    "rvalue": 1.5,
     "nvalue": 11.5,
     "mvalue": 51,
-    "rvalue - nopotion": 1.45,
-    "rvalue - ride": 1.7,
-    "rvalue - fly": 1.7,
-    "rvalue - fly&ride": 2.05,
+    "rvalue - nopotion": 1.5,
+    "rvalue - ride": 1.75,
+    "rvalue - fly": 1.75,
+    "rvalue - fly&ride": 2.1,
     "nvalue - nopotion": 9.5,
     "nvalue - ride": 10.5,
     "nvalue - fly": 10.5,
@@ -5266,7 +5269,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Queen Bee",
-    "score": 90,
+    "score": 86,
     "id": 228
   },
   {
@@ -5408,13 +5411,14 @@
     "id": 234
   },
   {
-    "rvalue": 1.45,
+    "b": "Golden Penguin",
+    "rvalue": 1.5,
     "nvalue": 11.5,
     "mvalue": 52,
-    "rvalue - nopotion": 1.45,
-    "rvalue - ride": 1.7,
-    "rvalue - fly": 1.7,
-    "rvalue - fly&ride": 2.05,
+    "rvalue - nopotion": 1.5,
+    "rvalue - ride": 1.75,
+    "rvalue - fly": 1.75,
+    "rvalue - fly&ride": 2.1,
     "nvalue - nopotion": 9.5,
     "nvalue - ride": 10.5,
     "nvalue - fly": 10.5,
@@ -5427,7 +5431,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Golden Penguin",
-    "score": 89,
+    "score": 85,
     "id": 235
   },
   {
@@ -6117,7 +6121,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Candy Hare",
-    "score": 85,
+    "score": 87,
     "id": 265
   },
   {
@@ -6853,7 +6857,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Yule Log Dog",
-    "score": 88,
+    "score": 90,
     "id": 297
   },
   {
@@ -30997,9 +31001,9 @@
     "nvalue - ride": 1.75,
     "nvalue - fly": 1.75,
     "nvalue - fly&ride": 2.25,
-    "mvalue - nopotion": 9,
-    "mvalue - ride": 10,
-    "mvalue - fly": 10,
+    "mvalue - nopotion": 10,
+    "mvalue - ride": 10.5,
+    "mvalue - fly": 10.5,
     "mvalue - fly&ride": 11,
     "fly&ride?": "\"false\"",
     "rarity": "ultra rare",
@@ -31862,7 +31866,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Peach Owl",
-    "score": 86,
+    "score": 88,
     "id": 2615
   },
   {
@@ -31885,7 +31889,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Apple Owl",
-    "score": 87,
+    "score": 89,
     "id": 2616
   },
   {
