@@ -1,5 +1,5 @@
 {
-  "version": 170,
+  "version": 174,
   "changed": true,
   "petsList": [
     {
@@ -26,21 +26,21 @@
     "id": 0
   },
   {
-    "rvalue": 128,
-    "nvalue": 385,
-    "mvalue": 1190,
-    "rvalue - nopotion": 126,
-    "rvalue - ride": 126,
-    "rvalue - fly": 126.75,
-    "rvalue - fly&ride": 128,
-    "nvalue - nopotion": 400,
-    "nvalue - ride": 384,
-    "nvalue - fly": 384,
-    "nvalue - fly&ride": 385,
-    "mvalue - nopotion": 1250,
-    "mvalue - ride": 1188,
-    "mvalue - fly": 1188.75,
-    "mvalue - fly&ride": 1190,
+    "rvalue": 131,
+    "nvalue": 394,
+    "mvalue": 1200,
+    "rvalue - nopotion": 129,
+    "rvalue - ride": 129,
+    "rvalue - fly": 129.75,
+    "rvalue - fly&ride": 131,
+    "nvalue - nopotion": 409,
+    "nvalue - ride": 393,
+    "nvalue - fly": 393,
+    "nvalue - fly&ride": 394,
+    "mvalue - nopotion": 1260,
+    "mvalue - ride": 1198,
+    "mvalue - fly": 1198.75,
+    "mvalue - fly&ride": 1200,
     "fly&ride?": "\"true\"",
     "rarity": "ultra rare",
     "type": "pets",
@@ -114,7 +114,7 @@
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Flamingo",
-    "score": 7,
+    "score": 8,
     "id": 4
   },
   {
@@ -3844,13 +3844,13 @@
     "id": 166
   },
   {
-    "rvalue": 664,
+    "rvalue": 666,
     "nvalue": 1680,
     "mvalue": 4590,
-    "rvalue - nopotion": 677,
-    "rvalue - ride": 664,
-    "rvalue - fly": 664,
-    "rvalue - fly&ride": 664,
+    "rvalue - nopotion": 679,
+    "rvalue - ride": 666,
+    "rvalue - fly": 666,
+    "rvalue - fly&ride": 666,
     "nvalue - nopotion": 1840,
     "nvalue - ride": 1726,
     "nvalue - fly": 1772,
@@ -3869,7 +3869,7 @@
   {
     "rvalue": 428,
     "nvalue": 972,
-    "mvalue": 2320,
+    "mvalue": 2330,
     "rvalue - nopotion": 558,
     "rvalue - ride": 432,
     "rvalue - fly": 430,
@@ -3879,9 +3879,9 @@
     "nvalue - fly": 1075.5,
     "nvalue - fly&ride": 972,
     "mvalue - nopotion": 3400,
-    "mvalue - ride": 2820,
-    "mvalue - fly": 2430,
-    "mvalue - fly&ride": 2320,
+    "mvalue - ride": 2830,
+    "mvalue - fly": 2440,
+    "mvalue - fly&ride": 2330,
     "fly&ride?": "\"true\"",
     "rarity": "legendary",
     "type": "pets",
@@ -4051,21 +4051,21 @@
     "id": 175
   },
   {
-    "rvalue": 110,
-    "nvalue": 358,
-    "mvalue": 1290,
-    "rvalue - nopotion": 108,
-    "rvalue - ride": 108,
-    "rvalue - fly": 108.75,
-    "rvalue - fly&ride": 110,
-    "nvalue - nopotion": 363,
-    "nvalue - ride": 357,
-    "nvalue - fly": 357,
-    "nvalue - fly&ride": 358,
-    "mvalue - nopotion": 1395,
-    "mvalue - ride": 1288,
-    "mvalue - fly": 1288.75,
-    "mvalue - fly&ride": 1290,
+    "rvalue": 112,
+    "nvalue": 366,
+    "mvalue": 1295,
+    "rvalue - nopotion": 110,
+    "rvalue - ride": 110,
+    "rvalue - fly": 110.75,
+    "rvalue - fly&ride": 112,
+    "nvalue - nopotion": 371,
+    "nvalue - ride": 365,
+    "nvalue - fly": 365,
+    "nvalue - fly&ride": 366,
+    "mvalue - nopotion": 1402,
+    "mvalue - ride": 1293,
+    "mvalue - fly": 1293.75,
+    "mvalue - fly&ride": 1295,
     "fly&ride?": "\"true\"",
     "rarity": "legendary",
     "type": "pets",
@@ -4120,26 +4120,26 @@
     "id": 178
   },
   {
-    "rvalue": 3.5,
-    "nvalue": 17,
-    "mvalue": 74,
-    "rvalue - nopotion": 3.5,
-    "rvalue - ride": 3.8,
-    "rvalue - fly": 3.85,
-    "rvalue - fly&ride": 4.25,
-    "nvalue - nopotion": 15,
-    "nvalue - ride": 16,
-    "nvalue - fly": 16,
-    "nvalue - fly&ride": 17,
-    "mvalue - nopotion": 71,
-    "mvalue - ride": 72,
-    "mvalue - fly": 72.75,
-    "mvalue - fly&ride": 74,
+    "rvalue": 3.25,
+    "nvalue": 16,
+    "mvalue": 68,
+    "rvalue - nopotion": 3.25,
+    "rvalue - ride": 3.55,
+    "rvalue - fly": 3.6,
+    "rvalue - fly&ride": 4,
+    "nvalue - nopotion": 14,
+    "nvalue - ride": 15,
+    "nvalue - fly": 15,
+    "nvalue - fly&ride": 16,
+    "mvalue - nopotion": 65,
+    "mvalue - ride": 66,
+    "mvalue - fly": 66.75,
+    "mvalue - fly&ride": 68,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Diamond Hummingbird",
-    "score": 69,
+    "score": 73,
     "id": 179
   },
   {
@@ -4185,7 +4185,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Turtle",
-    "score": 18,
+    "score": 19,
     "id": 181
   },
   {
@@ -4208,7 +4208,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Albino Monkey",
-    "score": 25,
+    "score": 26,
     "id": 182
   },
   {
@@ -4304,21 +4304,21 @@
     "id": 186
   },
   {
-    "rvalue": 4.75,
+    "rvalue": 4.5,
     "nvalue": 22,
-    "mvalue": 96,
-    "rvalue - nopotion": 4.75,
-    "rvalue - ride": 5.05,
-    "rvalue - fly": 5.1,
-    "rvalue - fly&ride": 5.5,
+    "mvalue": 92,
+    "rvalue - nopotion": 4.5,
+    "rvalue - ride": 4.8,
+    "rvalue - fly": 4.85,
+    "rvalue - fly&ride": 5.25,
     "nvalue - nopotion": 20,
     "nvalue - ride": 21,
     "nvalue - fly": 21,
     "nvalue - fly&ride": 22,
-    "mvalue - nopotion": 93,
-    "mvalue - ride": 94,
-    "mvalue - fly": 94.75,
-    "mvalue - fly&ride": 96,
+    "mvalue - nopotion": 89,
+    "mvalue - ride": 90,
+    "mvalue - fly": 90.75,
+    "mvalue - fly&ride": 92,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
@@ -4396,13 +4396,13 @@
     "id": 190
   },
   {
-    "rvalue": 64,
+    "rvalue": 65,
     "nvalue": 235,
     "mvalue": 800,
-    "rvalue - nopotion": 62,
-    "rvalue - ride": 62,
-    "rvalue - fly": 62.75,
-    "rvalue - fly&ride": 64,
+    "rvalue - nopotion": 63,
+    "rvalue - ride": 63,
+    "rvalue - fly": 63.75,
+    "rvalue - fly&ride": 65,
     "nvalue - nopotion": 240,
     "nvalue - ride": 234,
     "nvalue - fly": 234,
@@ -4420,16 +4420,16 @@
   },
   {
     "rvalue": 5.25,
-    "nvalue": 24,
+    "nvalue": 25,
     "mvalue": 105,
     "rvalue - nopotion": 5.25,
     "rvalue - ride": 5.55,
     "rvalue - fly": 5.6,
     "rvalue - fly&ride": 6,
-    "nvalue - nopotion": 22,
-    "nvalue - ride": 23,
-    "nvalue - fly": 23,
-    "nvalue - fly&ride": 24,
+    "nvalue - nopotion": 23,
+    "nvalue - ride": 24,
+    "nvalue - fly": 24,
+    "nvalue - fly&ride": 25,
     "mvalue - nopotion": 110,
     "mvalue - ride": 103,
     "mvalue - fly": 103.75,
@@ -4442,26 +4442,26 @@
     "id": 192
   },
   {
-    "rvalue": 16.25,
-    "nvalue": 65,
-    "mvalue": 275,
-    "rvalue - nopotion": 16.25,
-    "rvalue - ride": 16.55,
-    "rvalue - fly": 16.6,
-    "rvalue - fly&ride": 17,
-    "nvalue - nopotion": 63,
-    "nvalue - ride": 64,
-    "nvalue - fly": 64,
-    "nvalue - fly&ride": 65,
-    "mvalue - nopotion": 280,
-    "mvalue - ride": 273,
-    "mvalue - fly": 273.75,
-    "mvalue - fly&ride": 275,
+    "rvalue": 17.25,
+    "nvalue": 69,
+    "mvalue": 287,
+    "rvalue - nopotion": 17.25,
+    "rvalue - ride": 17.55,
+    "rvalue - fly": 17.6,
+    "rvalue - fly&ride": 18,
+    "nvalue - nopotion": 67,
+    "nvalue - ride": 68,
+    "nvalue - fly": 68,
+    "nvalue - fly&ride": 69,
+    "mvalue - nopotion": 292,
+    "mvalue - ride": 285,
+    "mvalue - fly": 285.75,
+    "mvalue - fly&ride": 287,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Jekyll Hydra",
-    "score": 26,
+    "score": 25,
     "id": 193
   },
   {
@@ -4484,7 +4484,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Cupid Dragon",
-    "score": 47,
+    "score": 46,
     "id": 194
   },
   {
@@ -4507,7 +4507,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Frost Unicorn",
-    "score": 34,
+    "score": 35,
     "id": 195
   },
   {
@@ -4581,16 +4581,16 @@
   },
   {
     "rvalue": 5.25,
-    "nvalue": 24,
+    "nvalue": 25,
     "mvalue": 105,
     "rvalue - nopotion": 5.25,
     "rvalue - ride": 5.55,
     "rvalue - fly": 5.6,
     "rvalue - fly&ride": 6,
-    "nvalue - nopotion": 22,
-    "nvalue - ride": 23,
-    "nvalue - fly": 23,
-    "nvalue - fly&ride": 24,
+    "nvalue - nopotion": 23,
+    "nvalue - ride": 24,
+    "nvalue - fly": 24,
+    "nvalue - fly&ride": 25,
     "mvalue - nopotion": 110,
     "mvalue - ride": 103,
     "mvalue - fly": 103.75,
@@ -4673,16 +4673,16 @@
   },
   {
     "rvalue": 4.75,
-    "nvalue": 22,
+    "nvalue": 23,
     "mvalue": 97,
     "rvalue - nopotion": 4.75,
     "rvalue - ride": 5.05,
     "rvalue - fly": 5.1,
     "rvalue - fly&ride": 5.5,
-    "nvalue - nopotion": 20,
-    "nvalue - ride": 21,
-    "nvalue - fly": 21,
-    "nvalue - fly&ride": 22,
+    "nvalue - nopotion": 21,
+    "nvalue - ride": 22,
+    "nvalue - fly": 22,
+    "nvalue - fly&ride": 23,
     "mvalue - nopotion": 102,
     "mvalue - ride": 95,
     "mvalue - fly": 95.75,
@@ -4691,7 +4691,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Nessie",
-    "score": 59,
+    "score": 57,
     "id": 203
   },
   {
@@ -4714,7 +4714,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Winged Tiger",
-    "score": 33,
+    "score": 34,
     "id": 204
   },
   {
@@ -4760,7 +4760,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Aurora Fox",
-    "score": 73,
+    "score": 72,
     "id": 206
   },
   {
@@ -4857,16 +4857,16 @@
   },
   {
     "rvalue": 5.5,
-    "nvalue": 25,
+    "nvalue": 26,
     "mvalue": 110,
     "rvalue - nopotion": 5.5,
     "rvalue - ride": 5.9,
     "rvalue - fly": 5.9,
     "rvalue - fly&ride": 6.5,
-    "nvalue - nopotion": 23,
-    "nvalue - ride": 24,
-    "nvalue - fly": 24,
-    "nvalue - fly&ride": 25,
+    "nvalue - nopotion": 24,
+    "nvalue - ride": 25,
+    "nvalue - fly": 25,
+    "nvalue - fly&ride": 26,
     "mvalue - nopotion": 111,
     "mvalue - ride": 108,
     "mvalue - fly": 108.75,
@@ -4948,49 +4948,49 @@
     "id": 214
   },
   {
-    "rvalue": 4.75,
-    "nvalue": 22,
-    "mvalue": 97,
-    "rvalue - nopotion": 4.75,
-    "rvalue - ride": 5.05,
-    "rvalue - fly": 5.1,
-    "rvalue - fly&ride": 5.5,
-    "nvalue - nopotion": 20,
-    "nvalue - ride": 21,
-    "nvalue - fly": 21,
-    "nvalue - fly&ride": 22,
-    "mvalue - nopotion": 102,
-    "mvalue - ride": 95,
-    "mvalue - fly": 95.75,
-    "mvalue - fly&ride": 97,
+    "rvalue": 5,
+    "nvalue": 24,
+    "mvalue": 101,
+    "rvalue - nopotion": 5,
+    "rvalue - ride": 5.3,
+    "rvalue - fly": 5.35,
+    "rvalue - fly&ride": 5.75,
+    "nvalue - nopotion": 22,
+    "nvalue - ride": 23,
+    "nvalue - fly": 23,
+    "nvalue - fly&ride": 24,
+    "mvalue - nopotion": 106,
+    "mvalue - ride": 99,
+    "mvalue - fly": 99.75,
+    "mvalue - fly&ride": 101,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Emperor Gorilla",
-    "score": 58,
+    "score": 54,
     "id": 215
   },
   {
-    "rvalue": 8,
-    "nvalue": 37,
-    "mvalue": 152,
-    "rvalue - nopotion": 8,
-    "rvalue - ride": 8.4,
-    "rvalue - fly": 8.4,
-    "rvalue - fly&ride": 9,
-    "nvalue - nopotion": 35,
-    "nvalue - ride": 36,
-    "nvalue - fly": 36,
-    "nvalue - fly&ride": 37,
-    "mvalue - nopotion": 153,
-    "mvalue - ride": 150,
-    "mvalue - fly": 150.75,
-    "mvalue - fly&ride": 152,
+    "rvalue": 10,
+    "nvalue": 45,
+    "mvalue": 185,
+    "rvalue - nopotion": 10,
+    "rvalue - ride": 10.4,
+    "rvalue - fly": 10.4,
+    "rvalue - fly&ride": 11,
+    "nvalue - nopotion": 43,
+    "nvalue - ride": 44,
+    "nvalue - fly": 44,
+    "nvalue - fly&ride": 45,
+    "mvalue - nopotion": 186,
+    "mvalue - ride": 183,
+    "mvalue - fly": 183.75,
+    "mvalue - fly&ride": 185,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Grim Dragon",
-    "score": 37,
+    "score": 32,
     "id": 216
   },
   {
@@ -5036,7 +5036,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Bush Elephant",
-    "score": 38,
+    "score": 37,
     "id": 218
   },
   {
@@ -5059,7 +5059,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Midnight Dragon",
-    "score": 70,
+    "score": 69,
     "id": 219
   },
   {
@@ -5082,7 +5082,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Halloween White Ghost Dragon",
-    "score": 72,
+    "score": 71,
     "id": 220
   },
   {
@@ -5151,7 +5151,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Werewolf",
-    "score": 46,
+    "score": 45,
     "id": 223
   },
   {
@@ -5755,7 +5755,7 @@
   {
     "rvalue": 5,
     "nvalue": 23.5,
-    "mvalue": 104,
+    "mvalue": 100,
     "rvalue - nopotion": 5,
     "rvalue - ride": 5.3,
     "rvalue - fly": 5.35,
@@ -5764,15 +5764,15 @@
     "nvalue - ride": 22.5,
     "nvalue - fly": 22.5,
     "nvalue - fly&ride": 23.5,
-    "mvalue - nopotion": 101,
-    "mvalue - ride": 102,
-    "mvalue - fly": 102.75,
-    "mvalue - fly&ride": 104,
+    "mvalue - nopotion": 97,
+    "mvalue - ride": 98,
+    "mvalue - fly": 98.75,
+    "mvalue - fly&ride": 100,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Fallow Deer",
-    "score": 55,
+    "score": 56,
     "id": 250
   },
   {
@@ -5818,7 +5818,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Owlbear",
-    "score": 48,
+    "score": 47,
     "id": 252
   },
   {
@@ -7869,21 +7869,21 @@
     "id": 341
   },
   {
-    "rvalue": 16.5,
-    "nvalue": 62,
-    "mvalue": 248,
-    "rvalue - nopotion": 16.5,
-    "rvalue - ride": 17,
-    "rvalue - fly": 17,
-    "rvalue - fly&ride": 17.75,
-    "nvalue - nopotion": 60.5,
-    "nvalue - ride": 61.25,
-    "nvalue - fly": 61.25,
-    "nvalue - fly&ride": 62,
-    "mvalue - nopotion": 246,
-    "mvalue - ride": 247,
-    "mvalue - fly": 247,
-    "mvalue - fly&ride": 248,
+    "rvalue": 17,
+    "nvalue": 63,
+    "mvalue": 256,
+    "rvalue - nopotion": 17,
+    "rvalue - ride": 17.5,
+    "rvalue - fly": 17.5,
+    "rvalue - fly&ride": 18.25,
+    "nvalue - nopotion": 61.5,
+    "nvalue - ride": 62.25,
+    "nvalue - fly": 62.25,
+    "nvalue - fly&ride": 63,
+    "mvalue - nopotion": 254,
+    "mvalue - ride": 255,
+    "mvalue - fly": 255,
+    "mvalue - fly&ride": 256,
     "fly&ride?": "\"false\"",
     "rarity": "rare",
     "type": "pets",
@@ -13999,7 +13999,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Frostbite Bear",
-    "score": 32,
+    "score": 33,
     "id": 670
   },
   {
@@ -14095,26 +14095,26 @@
     "id": 674
   },
   {
-    "rvalue": 20,
-    "nvalue": 53,
-    "mvalue": 190,
-    "rvalue - nopotion": 18.75,
-    "rvalue - ride": 19.25,
-    "rvalue - fly": 19.25,
-    "rvalue - fly&ride": 20,
-    "nvalue - nopotion": 51,
-    "nvalue - ride": 52,
-    "nvalue - fly": 52,
-    "nvalue - fly&ride": 53,
-    "mvalue - nopotion": 188,
-    "mvalue - ride": 188,
-    "mvalue - fly": 188.75,
-    "mvalue - fly&ride": 190,
+    "rvalue": 20.5,
+    "nvalue": 54,
+    "mvalue": 194,
+    "rvalue - nopotion": 19.25,
+    "rvalue - ride": 19.75,
+    "rvalue - fly": 19.75,
+    "rvalue - fly&ride": 20.5,
+    "nvalue - nopotion": 52,
+    "nvalue - ride": 53,
+    "nvalue - fly": 53,
+    "nvalue - fly&ride": 54,
+    "mvalue - nopotion": 192,
+    "mvalue - ride": 192,
+    "mvalue - fly": 192.75,
+    "mvalue - fly&ride": 194,
     "fly&ride?": "\"true\"",
     "rarity": "ultra rare",
     "type": "pets",
     "name": "Cabbit",
-    "score": 8,
+    "score": 7,
     "id": 675
   },
   {
@@ -14602,16 +14602,16 @@
   },
   {
     "rvalue": 5.5,
-    "nvalue": 25,
+    "nvalue": 26,
     "mvalue": 108,
     "rvalue - nopotion": 5.5,
     "rvalue - ride": 5.8,
     "rvalue - fly": 5.85,
     "rvalue - fly&ride": 6.25,
-    "nvalue - nopotion": 23,
-    "nvalue - ride": 24,
-    "nvalue - fly": 24,
-    "nvalue - fly&ride": 25,
+    "nvalue - nopotion": 24,
+    "nvalue - ride": 25,
+    "nvalue - fly": 25,
+    "nvalue - fly&ride": 26,
     "mvalue - nopotion": 105,
     "mvalue - ride": 106,
     "mvalue - fly": 106.75,
@@ -16084,7 +16084,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Prehistoric Car",
-    "score": 125,
+    "score": 126,
     "id": 865
   },
   {
@@ -16092,7 +16092,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Yellow Taxi Cab",
-    "score": 128,
+    "score": 129,
     "id": 866
   },
   {
@@ -16100,7 +16100,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Black Cab",
-    "score": 126,
+    "score": 127,
     "id": 867
   },
   {
@@ -16108,7 +16108,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "SUV",
-    "score": 134,
+    "score": 135,
     "id": 868
   },
   {
@@ -16116,7 +16116,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Hovercar",
-    "score": 140,
+    "score": 141,
     "id": 869
   },
   {
@@ -16124,7 +16124,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Dragonster",
-    "score": 138,
+    "score": 139,
     "id": 870
   },
   {
@@ -16141,7 +16141,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Witch's Caravan",
-    "score": 150,
+    "score": 152,
     "id": 872
   },
   {
@@ -16149,7 +16149,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Paint Roller Truck",
-    "score": 148,
+    "score": 150,
     "id": 873
   },
   {
@@ -16157,7 +16157,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Motorized Sofa",
-    "score": 147,
+    "score": 149,
     "id": 874
   },
   {
@@ -16165,7 +16165,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Bee Shuttle",
-    "score": 144,
+    "score": 146,
     "id": 875
   },
   {
@@ -16173,7 +16173,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Imagination Box",
-    "score": 158,
+    "score": 161,
     "id": 876
   },
   {
@@ -16181,7 +16181,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Squirrel Car",
-    "score": 160,
+    "score": 164,
     "id": 877
   },
   {
@@ -16189,7 +16189,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Celestial Carrier",
-    "score": 154,
+    "score": 157,
     "id": 878
   },
   {
@@ -16197,7 +16197,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Dolphin Cruiser",
-    "score": 156,
+    "score": 159,
     "id": 879
   },
   {
@@ -16205,7 +16205,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Wizard Caravan",
-    "score": 163,
+    "score": 167,
     "id": 880
   },
   {
@@ -16213,7 +16213,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Dapper Friend Carrier",
-    "score": 155,
+    "score": 158,
     "id": 881
   },
   {
@@ -16244,7 +16244,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Ancient Unicycle",
-    "score": 211,
+    "score": 214,
     "id": 883
   },
   {
@@ -16252,7 +16252,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Beach Buggy",
-    "score": 164,
+    "score": 168,
     "id": 884
   },
   {
@@ -16260,7 +16260,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Bumper Car",
-    "score": 175,
+    "score": 178,
     "id": 885
   },
   {
@@ -16268,7 +16268,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Camping Van",
-    "score": 212,
+    "score": 215,
     "id": 886
   },
   {
@@ -16276,7 +16276,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Candy Camper",
-    "score": 213,
+    "score": 216,
     "id": 887
   },
   {
@@ -16284,7 +16284,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Charon's Boat",
-    "score": 178,
+    "score": 181,
     "id": 888
   },
   {
@@ -16292,7 +16292,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Classic American Car",
-    "score": 214,
+    "score": 217,
     "id": 889
   },
   {
@@ -16300,7 +16300,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Clown car",
-    "score": 166,
+    "score": 170,
     "id": 890
   },
   {
@@ -16308,7 +16308,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Cookie Unicycle",
-    "score": 152,
+    "score": 154,
     "id": 891
   },
   {
@@ -16324,7 +16324,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Dirt Bike Unicycle",
-    "score": 248,
+    "score": 251,
     "id": 893
   },
   {
@@ -16332,7 +16332,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Donut Unicycle",
-    "score": 176,
+    "score": 179,
     "id": 894
   },
   {
@@ -16348,7 +16348,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Flower Wagon",
-    "score": 131,
+    "score": 132,
     "id": 896
   },
   {
@@ -16356,7 +16356,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Galleon",
-    "score": 139,
+    "score": 140,
     "id": 897
   },
   {
@@ -16364,7 +16364,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Giant Snowball",
-    "score": 145,
+    "score": 147,
     "id": 898
   },
   {
@@ -16372,7 +16372,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Harvest Truck",
-    "score": 169,
+    "score": 173,
     "id": 899
   },
   {
@@ -16380,7 +16380,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Heart Hoverboard",
-    "score": 146,
+    "score": 148,
     "id": 900
   },
   {
@@ -16388,7 +16388,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Hot Air Balloon",
-    "score": 190,
+    "score": 193,
     "id": 901
   },
   {
@@ -16396,7 +16396,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Hot Rod Sleigh",
-    "score": 157,
+    "score": 160,
     "id": 902
   },
   {
@@ -16404,7 +16404,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Hovercraft",
-    "score": 191,
+    "score": 194,
     "id": 903
   },
   {
@@ -16420,7 +16420,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Ice Queen Sleigh",
-    "score": 127,
+    "score": 128,
     "id": 905
   },
   {
@@ -16428,7 +16428,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Landsailer",
-    "score": 177,
+    "score": 180,
     "id": 906
   },
   {
@@ -16436,7 +16436,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Limo",
-    "score": 180,
+    "score": 183,
     "id": 907
   },
   {
@@ -16444,7 +16444,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Lunar Muscle Car",
-    "score": 193,
+    "score": 196,
     "id": 908
   },
   {
@@ -16452,7 +16452,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Magical Princess Unicycle",
-    "score": 222,
+    "score": 225,
     "id": 909
   },
   {
@@ -16460,7 +16460,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Modern Unicycle",
-    "score": 216,
+    "score": 219,
     "id": 910
   },
   {
@@ -16468,7 +16468,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Muscle Car",
-    "score": 194,
+    "score": 197,
     "id": 911
   },
   {
@@ -16476,7 +16476,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Orchid Racer",
-    "score": 181,
+    "score": 184,
     "id": 912
   },
   {
@@ -16484,7 +16484,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Planetary Core Car",
-    "score": 172,
+    "score": 176,
     "id": 913
   },
   {
@@ -16492,15 +16492,15 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Plant Powered Roller Skates",
-    "score": 195,
+    "score": 198,
     "id": 914
   },
   {
-    "value": 0.3,
+    "value": 0.35,
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Powerbike",
-    "score": 173,
+    "score": 162,
     "id": 915
   },
   {
@@ -16508,7 +16508,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "RGB Monster Truck",
-    "score": 182,
+    "score": 185,
     "id": 916
   },
   {
@@ -16516,7 +16516,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "RGB UFO",
-    "score": 183,
+    "score": 186,
     "id": 917
   },
   {
@@ -16524,7 +16524,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Robo Unicycle",
-    "score": 196,
+    "score": 199,
     "id": 918
   },
   {
@@ -16532,7 +16532,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Rocket Racer",
-    "score": 184,
+    "score": 187,
     "id": 919
   },
   {
@@ -16540,7 +16540,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Snow Globetrotter",
-    "score": 185,
+    "score": 188,
     "id": 920
   },
   {
@@ -16548,7 +16548,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Snow Plow",
-    "score": 159,
+    "score": 163,
     "id": 921
   },
   {
@@ -16564,7 +16564,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Spinning Teacup Vehicle",
-    "score": 198,
+    "score": 201,
     "id": 923
   },
   {
@@ -16572,7 +16572,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Sunshine Chariot",
-    "score": 207,
+    "score": 210,
     "id": 924
   },
   {
@@ -16580,7 +16580,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Toxic Barrel",
-    "score": 161,
+    "score": 165,
     "id": 925
   },
   {
@@ -16588,7 +16588,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Tractor",
-    "score": 162,
+    "score": 166,
     "id": 926
   },
   {
@@ -16596,7 +16596,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Trireme",
-    "score": 186,
+    "score": 189,
     "id": 927
   },
   {
@@ -16604,7 +16604,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Tundra Exploration Machine",
-    "score": 142,
+    "score": 144,
     "id": 928
   },
   {
@@ -16612,7 +16612,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Unicorn Zombie Ponycycle",
-    "score": 143,
+    "score": 145,
     "id": 929
   },
   {
@@ -16620,7 +16620,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Unstable Triangle Car",
-    "score": 149,
+    "score": 151,
     "id": 930
   },
   {
@@ -16628,7 +16628,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Winged Skates",
-    "score": 221,
+    "score": 224,
     "id": 931
   },
   {
@@ -16636,7 +16636,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Zamboni",
-    "score": 201,
+    "score": 204,
     "id": 932
   },
   {
@@ -16644,7 +16644,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Beachgoer",
-    "score": 165,
+    "score": 169,
     "id": 933
   },
   {
@@ -16652,7 +16652,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Blue Rider",
-    "score": 255,
+    "score": 258,
     "id": 934
   },
   {
@@ -16660,7 +16660,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Butterfly Roller Skates",
-    "score": 237,
+    "score": 240,
     "id": 935
   },
   {
@@ -16668,7 +16668,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Camper Van",
-    "score": 227,
+    "score": 230,
     "id": 936
   },
   {
@@ -16676,7 +16676,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Candy Snowmobile",
-    "score": 151,
+    "score": 153,
     "id": 937
   },
   {
@@ -16684,7 +16684,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Chairlift",
-    "score": 129,
+    "score": 130,
     "id": 938
   },
   {
@@ -16700,7 +16700,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Daisy Unicycle",
-    "score": 179,
+    "score": 182,
     "id": 940
   },
   {
@@ -16708,7 +16708,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Festive Ice Skates",
-    "score": 215,
+    "score": 218,
     "id": 941
   },
   {
@@ -16716,7 +16716,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Festive Wagon",
-    "score": 130,
+    "score": 131,
     "id": 942
   },
   {
@@ -16724,7 +16724,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Fossil Paw Helicopter",
-    "score": 132,
+    "score": 133,
     "id": 943
   },
   {
@@ -16732,7 +16732,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Futuristic Unicycle",
-    "score": 189,
+    "score": 192,
     "id": 944
   },
   {
@@ -16740,7 +16740,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Galactic Hoverboard",
-    "score": 168,
+    "score": 172,
     "id": 945
   },
   {
@@ -16748,7 +16748,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Gingerbread Stunt Plane",
-    "score": 205,
+    "score": 208,
     "id": 946
   },
   {
@@ -16756,7 +16756,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Human Bubble",
-    "score": 252,
+    "score": 255,
     "id": 947
   },
   {
@@ -16764,7 +16764,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Medieval Wagon",
-    "score": 229,
+    "score": 232,
     "id": 948
   },
   {
@@ -16780,7 +16780,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Off-Road Car",
-    "score": 223,
+    "score": 226,
     "id": 950
   },
   {
@@ -16788,7 +16788,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Offroader",
-    "score": 249,
+    "score": 252,
     "id": 951
   },
   {
@@ -16796,7 +16796,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Old Sailboat",
-    "score": 224,
+    "score": 227,
     "id": 952
   },
   {
@@ -16804,7 +16804,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Party Surfboard",
-    "score": 231,
+    "score": 234,
     "id": 953
   },
   {
@@ -16812,7 +16812,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Pizza Unicycle",
-    "score": 217,
+    "score": 220,
     "id": 954
   },
   {
@@ -16828,7 +16828,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Racing Monoplane",
-    "score": 153,
+    "score": 156,
     "id": 956
   },
   {
@@ -16836,7 +16836,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Rift Rider",
-    "score": 218,
+    "score": 221,
     "id": 957
   },
   {
@@ -16844,7 +16844,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Rocket Skates",
-    "score": 232,
+    "score": 235,
     "id": 958
   },
   {
@@ -16852,7 +16852,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Sled",
-    "score": 219,
+    "score": 222,
     "id": 959
   },
   {
@@ -16860,7 +16860,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Soccer Car",
-    "score": 233,
+    "score": 236,
     "id": 960
   },
   {
@@ -16868,7 +16868,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Speedboat",
-    "score": 174,
+    "score": 177,
     "id": 961
   },
   {
@@ -16876,7 +16876,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Strawberry Shortcake Skates",
-    "score": 241,
+    "score": 244,
     "id": 962
   },
   {
@@ -16884,7 +16884,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Surfboard",
-    "score": 234,
+    "score": 237,
     "id": 963
   },
   {
@@ -16892,7 +16892,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Throwing Knife Target",
-    "score": 220,
+    "score": 223,
     "id": 964
   },
   {
@@ -16900,7 +16900,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Waffle Wagon",
-    "score": 199,
+    "score": 202,
     "id": 965
   },
   {
@@ -16908,7 +16908,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Bat Face Roller Skates",
-    "score": 243,
+    "score": 246,
     "id": 966
   },
   {
@@ -16916,7 +16916,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Car",
-    "score": 235,
+    "score": 238,
     "id": 967
   },
   {
@@ -16924,7 +16924,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Circus Ball Skates",
-    "score": 247,
+    "score": 250,
     "id": 968
   },
   {
@@ -16932,7 +16932,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Circus Ball Unicycle",
-    "score": 238,
+    "score": 241,
     "id": 969
   },
   {
@@ -16940,7 +16940,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Clown Unicycle",
-    "score": 188,
+    "score": 191,
     "id": 970
   },
   {
@@ -16948,7 +16948,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Festive Wreath Cruiser",
-    "score": 204,
+    "score": 207,
     "id": 971
   },
   {
@@ -16956,7 +16956,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Haunted Wagon",
-    "score": 202,
+    "score": 205,
     "id": 972
   },
   {
@@ -16964,7 +16964,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Icebreaker Ship",
-    "score": 192,
+    "score": 195,
     "id": 973
   },
   {
@@ -16972,7 +16972,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Water Scooter",
-    "score": 200,
+    "score": 203,
     "id": 974
   },
   {
@@ -16980,7 +16980,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Open Top Speeder",
-    "score": 225,
+    "score": 228,
     "id": 975
   },
   {
@@ -16988,7 +16988,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Rainbow Trail Magic Carpet",
-    "score": 240,
+    "score": 243,
     "id": 976
   },
   {
@@ -16996,7 +16996,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Sports Bike",
-    "score": 245,
+    "score": 248,
     "id": 977
   },
   {
@@ -17004,7 +17004,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Starter Bike",
-    "score": 246,
+    "score": 249,
     "id": 978
   },
   {
@@ -17012,7 +17012,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Strawberry Shortcake Unicycle",
-    "score": 206,
+    "score": 209,
     "id": 979
   },
   {
@@ -17020,7 +17020,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Tiny Convertible",
-    "score": 242,
+    "score": 245,
     "id": 980
   },
   {
@@ -17028,7 +17028,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Toy Delivery Truck",
-    "score": 210,
+    "score": 213,
     "id": 981
   },
   {
@@ -17036,7 +17036,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Trusty Sled",
-    "score": 236,
+    "score": 239,
     "id": 982
   },
   {
@@ -17044,7 +17044,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Family Car",
-    "score": 239,
+    "score": 242,
     "id": 983
   },
   {
@@ -17052,7 +17052,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Airboat",
-    "score": 208,
+    "score": 211,
     "id": 984
   },
   {
@@ -17060,7 +17060,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Time Traveler's Clock",
-    "score": 226,
+    "score": 229,
     "id": 985
   },
   {
@@ -17068,7 +17068,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Classic Airplane",
-    "score": 187,
+    "score": 190,
     "id": 986
   },
   {
@@ -17076,7 +17076,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Classic Helicopter",
-    "score": 203,
+    "score": 206,
     "id": 987
   },
   {
@@ -17084,7 +17084,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Classic Boat",
-    "score": 209,
+    "score": 212,
     "id": 988
   },
   {
@@ -17092,7 +17092,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Soapy Skates",
-    "score": 254,
+    "score": 257,
     "id": 989
   },
   {
@@ -17100,7 +17100,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Neon Skates",
-    "score": 253,
+    "score": 256,
     "id": 990
   },
   {
@@ -17108,7 +17108,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Motorbike",
-    "score": 250,
+    "score": 253,
     "id": 991
   },
   {
@@ -17116,7 +17116,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Motorcycle",
-    "score": 251,
+    "score": 254,
     "id": 992
   },
   {
@@ -17124,7 +17124,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Standard Roller Skates",
-    "score": 258,
+    "score": 261,
     "id": 993
   },
   {
@@ -17132,7 +17132,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Roller Skates",
-    "score": 257,
+    "score": 260,
     "id": 994
   },
   {
@@ -17140,7 +17140,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Tandem Bicycle",
-    "score": 259,
+    "score": 262,
     "id": 995
   },
   {
@@ -17148,7 +17148,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Multi-Bike",
-    "score": 256,
+    "score": 259,
     "id": 996
   },
   {
@@ -17156,7 +17156,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Standard Unicycle",
-    "score": 260,
+    "score": 263,
     "id": 997
   },
   {
@@ -17164,7 +17164,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Unicycle",
-    "score": 261,
+    "score": 264,
     "id": 998
   },
   {
@@ -17172,7 +17172,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Bicycle",
-    "score": 262,
+    "score": 265,
     "id": 999
   },
   {
@@ -17180,7 +17180,7 @@
     "rarity": "common",
     "type": "vehicles",
     "name": "Bike",
-    "score": 263,
+    "score": 266,
     "id": 1000
   },
   {
@@ -17717,7 +17717,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Winter Bow Wings",
-    "score": 287,
+    "score": 288,
     "id": 1067
   },
   {
@@ -17725,7 +17725,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Top Hat",
-    "score": 284,
+    "score": 285,
     "id": 1068
   },
   {
@@ -17749,7 +17749,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Super Hero Hair",
-    "score": 283,
+    "score": 284,
     "id": 1071
   },
   {
@@ -17805,7 +17805,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Bee Wings",
-    "score": 301,
+    "score": 302,
     "id": 1078
   },
   {
@@ -17813,7 +17813,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Black Sneakers",
-    "score": 305,
+    "score": 306,
     "id": 1079
   },
   {
@@ -17821,7 +17821,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Red Sneakers",
-    "score": 384,
+    "score": 385,
     "id": 1080
   },
   {
@@ -17829,7 +17829,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Crayon Mohawk",
-    "score": 319,
+    "score": 320,
     "id": 1081
   },
   {
@@ -17837,7 +17837,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Chest Monster",
-    "score": 313,
+    "score": 314,
     "id": 1082
   },
   {
@@ -17845,7 +17845,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "AR Headset",
-    "score": 293,
+    "score": 294,
     "id": 1083
   },
   {
@@ -17853,7 +17853,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Bell Flower Hat",
-    "score": 302,
+    "score": 303,
     "id": 1084
   },
   {
@@ -17861,7 +17861,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Bionic Arms",
-    "score": 304,
+    "score": 305,
     "id": 1085
   },
   {
@@ -17869,7 +17869,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Christmas Boots",
-    "score": 314,
+    "score": 315,
     "id": 1086
   },
   {
@@ -17877,7 +17877,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Clan Banner",
-    "score": 315,
+    "score": 316,
     "id": 1087
   },
   {
@@ -17885,7 +17885,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Constellation Cape",
-    "score": 317,
+    "score": 318,
     "id": 1088
   },
   {
@@ -17893,7 +17893,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Curved Bow",
-    "score": 321,
+    "score": 322,
     "id": 1089
   },
   {
@@ -17901,7 +17901,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Dog Backpack",
-    "score": 325,
+    "score": 326,
     "id": 1090
   },
   {
@@ -17909,7 +17909,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Fantastical Wings",
-    "score": 330,
+    "score": 331,
     "id": 1091
   },
   {
@@ -17917,7 +17917,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Festive Beard",
-    "score": 331,
+    "score": 332,
     "id": 1092
   },
   {
@@ -17925,7 +17925,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Flower Hair",
-    "score": 336,
+    "score": 337,
     "id": 1093
   },
   {
@@ -17933,7 +17933,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Flower Heels",
-    "score": 337,
+    "score": 338,
     "id": 1094
   },
   {
@@ -17941,7 +17941,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Formal Big Bow Hat",
-    "score": 339,
+    "score": 340,
     "id": 1095
   },
   {
@@ -17949,7 +17949,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Fortune Teller Hood",
-    "score": 340,
+    "score": 341,
     "id": 1096
   },
   {
@@ -17957,7 +17957,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Frigid Hat",
-    "score": 341,
+    "score": 342,
     "id": 1097
   },
   {
@@ -17965,7 +17965,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Gingerbread Star Eye Patch",
-    "score": 344,
+    "score": 345,
     "id": 1098
   },
   {
@@ -17973,7 +17973,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Ice Wings",
-    "score": 355,
+    "score": 356,
     "id": 1099
   },
   {
@@ -17981,7 +17981,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Katana Set",
-    "score": 357,
+    "score": 358,
     "id": 1100
   },
   {
@@ -17989,7 +17989,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Sakura Scythe",
-    "score": 387,
+    "score": 388,
     "id": 1101
   },
   {
@@ -17997,7 +17997,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Santa's Bow",
-    "score": 389,
+    "score": 390,
     "id": 1102
   },
   {
@@ -18005,7 +18005,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Shark Swimcap",
-    "score": 390,
+    "score": 391,
     "id": 1103
   },
   {
@@ -18013,7 +18013,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Silly Duck Hat",
-    "score": 392,
+    "score": 393,
     "id": 1104
   },
   {
@@ -18021,7 +18021,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Sky Wings",
-    "score": 395,
+    "score": 396,
     "id": 1105
   },
   {
@@ -18029,7 +18029,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Rainbow Dragon Hat",
-    "score": 378,
+    "score": 379,
     "id": 1106
   },
   {
@@ -18037,7 +18037,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Snow Cloud Wings",
-    "score": 396,
+    "score": 397,
     "id": 1107
   },
   {
@@ -18045,7 +18045,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Strongperson Barbell",
-    "score": 397,
+    "score": 398,
     "id": 1108
   },
   {
@@ -18053,7 +18053,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Sun Wings",
-    "score": 400,
+    "score": 401,
     "id": 1109
   },
   {
@@ -18061,7 +18061,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Tree Skirt",
-    "score": 403,
+    "score": 404,
     "id": 1110
   },
   {
@@ -18069,7 +18069,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Ugly Holiday Cape",
-    "score": 404,
+    "score": 405,
     "id": 1111
   },
   {
@@ -18077,7 +18077,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Volcano Hat",
-    "score": 405,
+    "score": 406,
     "id": 1112
   },
   {
@@ -18085,7 +18085,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Walking Cane",
-    "score": 408,
+    "score": 409,
     "id": 1113
   },
   {
@@ -18093,7 +18093,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Winged Cap",
-    "score": 410,
+    "score": 411,
     "id": 1114
   },
   {
@@ -18101,7 +18101,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Winged Heels",
-    "score": 411,
+    "score": 412,
     "id": 1115
   },
   {
@@ -18109,7 +18109,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Cupcake Sprinkle Wings",
-    "score": 320,
+    "score": 321,
     "id": 1116
   },
   {
@@ -18117,7 +18117,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Leprechaun Tophat",
-    "score": 360,
+    "score": 361,
     "id": 1117
   },
   {
@@ -18125,7 +18125,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Mandarin's Hat",
-    "score": 364,
+    "score": 365,
     "id": 1118
   },
   {
@@ -18133,7 +18133,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Monster Hat",
-    "score": 366,
+    "score": 367,
     "id": 1119
   },
   {
@@ -18141,7 +18141,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Mystic Wing Crown",
-    "score": 367,
+    "score": 368,
     "id": 1120
   },
   {
@@ -18149,7 +18149,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Cosy Snow Hat",
-    "score": 415,
+    "score": 416,
     "id": 1121
   },
   {
@@ -18157,7 +18157,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Royal Crown Pillow",
-    "score": 419,
+    "score": 420,
     "id": 1122
   },
   {
@@ -18165,7 +18165,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Nemes",
-    "score": 418,
+    "score": 419,
     "id": 1123
   },
   {
@@ -18173,7 +18173,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Gothic Horns",
-    "score": 478,
+    "score": 479,
     "id": 1124
   },
   {
@@ -18189,7 +18189,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Laurel Wreath",
-    "score": 494,
+    "score": 495,
     "id": 1126
   },
   {
@@ -18197,7 +18197,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Ninja Collar",
-    "score": 508,
+    "score": 509,
     "id": 1127
   },
   {
@@ -18205,7 +18205,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Living Wizard Hat",
-    "score": 496,
+    "score": 497,
     "id": 1128
   },
   {
@@ -18213,7 +18213,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Owl Wings",
-    "score": 510,
+    "score": 511,
     "id": 1129
   },
   {
@@ -18221,7 +18221,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Rain Leaf Wings",
-    "score": 519,
+    "score": 520,
     "id": 1130
   },
   {
@@ -18229,7 +18229,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Long Bangs",
-    "score": 497,
+    "score": 498,
     "id": 1131
   },
   {
@@ -18237,7 +18237,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Sorcerer Hat",
-    "score": 532,
+    "score": 533,
     "id": 1132
   },
   {
@@ -18245,7 +18245,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Spiky Blue Hair",
-    "score": 535,
+    "score": 536,
     "id": 1133
   },
   {
@@ -18253,7 +18253,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Water Can",
-    "score": 544,
+    "score": 545,
     "id": 1134
   },
   {
@@ -18261,7 +18261,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Viking Helmet",
-    "score": 539,
+    "score": 540,
     "id": 1135
   },
   {
@@ -18269,7 +18269,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Viking Shield",
-    "score": 540,
+    "score": 541,
     "id": 1136
   },
   {
@@ -18277,7 +18277,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Villianous Eyebrows",
-    "score": 541,
+    "score": 542,
     "id": 1137
   },
   {
@@ -18285,7 +18285,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Rake Wings",
-    "score": 521,
+    "score": 522,
     "id": 1138
   },
   {
@@ -18293,7 +18293,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Forgotten Flower",
-    "score": 469,
+    "score": 470,
     "id": 1139
   },
   {
@@ -18301,7 +18301,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "#1 Ribbon",
-    "score": 422,
+    "score": 423,
     "id": 1140
   },
   {
@@ -18309,7 +18309,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Angry Eyebrows",
-    "score": 424,
+    "score": 425,
     "id": 1141
   },
   {
@@ -18317,7 +18317,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Black Purse",
-    "score": 430,
+    "score": 431,
     "id": 1142
   },
   {
@@ -18325,7 +18325,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Red Purse",
-    "score": 522,
+    "score": 523,
     "id": 1143
   },
   {
@@ -18333,7 +18333,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "White Purse",
-    "score": 546,
+    "score": 547,
     "id": 1144
   },
   {
@@ -18341,7 +18341,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Blue Sneakers",
-    "score": 573,
+    "score": 574,
     "id": 1145
   },
   {
@@ -18349,7 +18349,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Yellow Sneakers",
-    "score": 720,
+    "score": 721,
     "id": 1146
   },
   {
@@ -18357,7 +18357,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Pink Sneakers",
-    "score": 657,
+    "score": 658,
     "id": 1147
   },
   {
@@ -18365,7 +18365,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Purple Rose",
-    "score": 665,
+    "score": 666,
     "id": 1148
   },
   {
@@ -18373,7 +18373,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Folded Paper Wings",
-    "score": 615,
+    "score": 616,
     "id": 1149
   },
   {
@@ -18381,7 +18381,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Antenna",
-    "score": 569,
+    "score": 570,
     "id": 1150
   },
   {
@@ -18389,7 +18389,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Amber Earrings",
-    "score": 568,
+    "score": 569,
     "id": 1151
   },
   {
@@ -18397,7 +18397,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Angler Fish Light",
-    "score": 721,
+    "score": 722,
     "id": 1152
   },
   {
@@ -18700,20 +18700,20 @@
   },
   {
     "rvalue": 15,
-    "nvalue": 62,
-    "mvalue": 261,
+    "nvalue": 64,
+    "mvalue": 267,
     "rvalue - nopotion": 15,
     "rvalue - ride": 15.3,
     "rvalue - fly": 15.35,
     "rvalue - fly&ride": 15.75,
-    "nvalue - nopotion": 60,
-    "nvalue - ride": 61,
-    "nvalue - fly": 61,
-    "nvalue - fly&ride": 62,
-    "mvalue - nopotion": 266,
-    "mvalue - ride": 259,
-    "mvalue - fly": 259.75,
-    "mvalue - fly&ride": 261,
+    "nvalue - nopotion": 62,
+    "nvalue - ride": 63,
+    "nvalue - fly": 63,
+    "nvalue - fly&ride": 64,
+    "mvalue - nopotion": 272,
+    "mvalue - ride": 265,
+    "mvalue - fly": 265.75,
+    "mvalue - fly&ride": 267,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
@@ -18749,7 +18749,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Corsair Cruiser",
-    "score": 167,
+    "score": 171,
     "id": 1190
   },
   {
@@ -18757,7 +18757,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Balloon Dog",
-    "score": 295,
+    "score": 296,
     "id": 1191
   },
   {
@@ -18765,7 +18765,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Bamboo Bindle",
-    "score": 296,
+    "score": 297,
     "id": 1192
   },
   {
@@ -18773,7 +18773,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Battle Axe",
-    "score": 297,
+    "score": 298,
     "id": 1193
   },
   {
@@ -18805,7 +18805,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Boots",
-    "score": 574,
+    "score": 575,
     "id": 1197
   },
   {
@@ -18813,7 +18813,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Bow Shoes",
-    "score": 575,
+    "score": 576,
     "id": 1198
   },
   {
@@ -18821,7 +18821,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Boxing Glove Necklace",
-    "score": 432,
+    "score": 433,
     "id": 1199
   },
   {
@@ -18829,7 +18829,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Bucket Shoes",
-    "score": 306,
+    "score": 307,
     "id": 1200
   },
   {
@@ -18837,7 +18837,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Bumblebee Hat",
-    "score": 307,
+    "score": 308,
     "id": 1201
   },
   {
@@ -18853,7 +18853,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Butterfly Headphones",
-    "score": 577,
+    "score": 578,
     "id": 1203
   },
   {
@@ -18861,7 +18861,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Buzz Off! Skateboard",
-    "score": 579,
+    "score": 580,
     "id": 1204
   },
   {
@@ -18869,7 +18869,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Cactus Friend Hat",
-    "score": 309,
+    "score": 310,
     "id": 1205
   },
   {
@@ -18893,7 +18893,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Castle Tower",
-    "score": 583,
+    "score": 584,
     "id": 1208
   },
   {
@@ -18901,7 +18901,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Cheese Hat",
-    "score": 311,
+    "score": 312,
     "id": 1209
   },
   {
@@ -18909,7 +18909,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Chinese Tea Tray",
-    "score": 585,
+    "score": 586,
     "id": 1210
   },
   {
@@ -18917,7 +18917,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Cool Sunglasses",
-    "score": 440,
+    "score": 441,
     "id": 1211
   },
   {
@@ -18925,7 +18925,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Corndog Mustache",
-    "score": 318,
+    "score": 319,
     "id": 1212
   },
   {
@@ -18933,7 +18933,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Cosy Snow Scarf",
-    "score": 441,
+    "score": 442,
     "id": 1213
   },
   {
@@ -18941,7 +18941,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Crater Flag Hat",
-    "score": 443,
+    "score": 444,
     "id": 1214
   },
   {
@@ -18949,7 +18949,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Crystal Necklace",
-    "score": 444,
+    "score": 445,
     "id": 1215
   },
   {
@@ -18965,7 +18965,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Cyborg Shades",
-    "score": 446,
+    "score": 447,
     "id": 1217
   },
   {
@@ -18973,7 +18973,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Dancing Lion Mask",
-    "score": 448,
+    "score": 449,
     "id": 1218
   },
   {
@@ -18981,7 +18981,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Dandelion Hat",
-    "score": 322,
+    "score": 323,
     "id": 1219
   },
   {
@@ -18989,7 +18989,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Dino Hood",
-    "score": 324,
+    "score": 325,
     "id": 1220
   },
   {
@@ -19005,7 +19005,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Doggy Door Face",
-    "score": 449,
+    "score": 450,
     "id": 1222
   },
   {
@@ -19013,7 +19013,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Duck Feet",
-    "score": 326,
+    "score": 327,
     "id": 1223
   },
   {
@@ -19021,7 +19021,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Eagle Wings",
-    "score": 451,
+    "score": 452,
     "id": 1224
   },
   {
@@ -19077,7 +19077,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Elf Shoes",
-    "score": 328,
+    "score": 329,
     "id": 1231
   },
   {
@@ -19085,7 +19085,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Exposed Brain",
-    "score": 329,
+    "score": 330,
     "id": 1232
   },
   {
@@ -19093,7 +19093,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Eye Of Horus Monocle",
-    "score": 603,
+    "score": 604,
     "id": 1233
   },
   {
@@ -19109,7 +19109,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fairy Bell Necklace",
-    "score": 604,
+    "score": 605,
     "id": 1235
   },
   {
@@ -19117,7 +19117,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fairy Wings",
-    "score": 458,
+    "score": 459,
     "id": 1236
   },
   {
@@ -19125,7 +19125,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fall Donut Glasses",
-    "score": 605,
+    "score": 606,
     "id": 1237
   },
   {
@@ -19133,7 +19133,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fancy Footwear",
-    "score": 606,
+    "score": 607,
     "id": 1238
   },
   {
@@ -19149,7 +19149,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fantasy Blade",
-    "score": 608,
+    "score": 609,
     "id": 1241
   },
   {
@@ -19181,7 +19181,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fire Axe",
-    "score": 461,
+    "score": 462,
     "id": 1245
   },
   {
@@ -19189,7 +19189,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fire Extinguisher Backpack",
-    "score": 333,
+    "score": 334,
     "id": 1246
   },
   {
@@ -19197,7 +19197,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Firefighter Boots",
-    "score": 610,
+    "score": 611,
     "id": 1247
   },
   {
@@ -19213,7 +19213,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fire Hose Scarf",
-    "score": 462,
+    "score": 463,
     "id": 1249
   },
   {
@@ -19221,7 +19221,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fire Hydrant",
-    "score": 463,
+    "score": 464,
     "id": 1250
   },
   {
@@ -19229,7 +19229,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fishbone Badge",
-    "score": 611,
+    "score": 612,
     "id": 1251
   },
   {
@@ -19237,7 +19237,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fishers' Headdress",
-    "score": 334,
+    "score": 335,
     "id": 1252
   },
   {
@@ -19245,7 +19245,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Flame Cape",
-    "score": 612,
+    "score": 613,
     "id": 1253
   },
   {
@@ -19261,7 +19261,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Flower Collar",
-    "score": 335,
+    "score": 336,
     "id": 1255
   },
   {
@@ -19277,7 +19277,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Flower Scarf",
-    "score": 614,
+    "score": 615,
     "id": 1257
   },
   {
@@ -19285,7 +19285,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Flower Wreath Pin",
-    "score": 465,
+    "score": 466,
     "id": 1258
   },
   {
@@ -19301,7 +19301,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fluffy Earmuffs",
-    "score": 467,
+    "score": 468,
     "id": 1260
   },
   {
@@ -19309,7 +19309,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Flying Fish Wings",
-    "score": 338,
+    "score": 339,
     "id": 1261
   },
   {
@@ -19317,7 +19317,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Football Helmet",
-    "score": 468,
+    "score": 469,
     "id": 1262
   },
   {
@@ -19325,7 +19325,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fragile Box",
-    "score": 618,
+    "score": 619,
     "id": 1263
   },
   {
@@ -19333,7 +19333,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fur Boots",
-    "score": 342,
+    "score": 343,
     "id": 1264
   },
   {
@@ -19341,7 +19341,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fur Collared Cape",
-    "score": 470,
+    "score": 471,
     "id": 1265
   },
   {
@@ -19349,7 +19349,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Galaxy Helmet",
-    "score": 620,
+    "score": 621,
     "id": 1266
   },
   {
@@ -19357,7 +19357,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Gemstone Band",
-    "score": 471,
+    "score": 472,
     "id": 1267
   },
   {
@@ -19365,7 +19365,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Ghost Hat",
-    "score": 343,
+    "score": 344,
     "id": 1268
   },
   {
@@ -19373,7 +19373,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Gingerbread Wings",
-    "score": 624,
+    "score": 625,
     "id": 1269
   },
   {
@@ -19389,7 +19389,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Glass Slippers",
-    "score": 473,
+    "score": 474,
     "id": 1271
   },
   {
@@ -19405,7 +19405,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Gold Crown With Sapphire",
-    "score": 625,
+    "score": 626,
     "id": 1273
   },
   {
@@ -19413,7 +19413,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Golden Circlet",
-    "score": 476,
+    "score": 477,
     "id": 1274
   },
   {
@@ -19421,7 +19421,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Golden Headset",
-    "score": 477,
+    "score": 478,
     "id": 1275
   },
   {
@@ -19445,7 +19445,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Guitar Case",
-    "score": 479,
+    "score": 480,
     "id": 1278
   },
   {
@@ -19469,7 +19469,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Hanbok",
-    "score": 481,
+    "score": 482,
     "id": 1281
   },
   {
@@ -19501,7 +19501,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Heart Hat",
-    "score": 349,
+    "score": 350,
     "id": 1285
   },
   {
@@ -19509,7 +19509,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Heart Ribbon",
-    "score": 350,
+    "score": 351,
     "id": 1286
   },
   {
@@ -19517,7 +19517,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Heater Hat",
-    "score": 483,
+    "score": 484,
     "id": 1287
   },
   {
@@ -19533,7 +19533,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Ice Earrings",
-    "score": 353,
+    "score": 354,
     "id": 1289
   },
   {
@@ -19541,7 +19541,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Ice Halo",
-    "score": 486,
+    "score": 487,
     "id": 1290
   },
   {
@@ -19549,7 +19549,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Ice Shoes",
-    "score": 354,
+    "score": 355,
     "id": 1291
   },
   {
@@ -19565,7 +19565,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Jailer's Keys",
-    "score": 636,
+    "score": 637,
     "id": 1293
   },
   {
@@ -19581,7 +19581,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Jingle Bell Earrings",
-    "score": 488,
+    "score": 489,
     "id": 1295
   },
   {
@@ -19589,7 +19589,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Kage Scarf",
-    "score": 489,
+    "score": 490,
     "id": 1296
   },
   {
@@ -19597,7 +19597,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Large Bow",
-    "score": 358,
+    "score": 359,
     "id": 1297
   },
   {
@@ -19613,7 +19613,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Leprechaun Jacket",
-    "score": 359,
+    "score": 360,
     "id": 1299
   },
   {
@@ -19621,7 +19621,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Lucky Coin Necklace",
-    "score": 361,
+    "score": 362,
     "id": 1300
   },
   {
@@ -19629,7 +19629,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Lunar New Year Collar",
-    "score": 362,
+    "score": 363,
     "id": 1301
   },
   {
@@ -19637,7 +19637,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Lunar New Year Headdress",
-    "score": 498,
+    "score": 499,
     "id": 1302
   },
   {
@@ -19645,7 +19645,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Lunar New Year Knot Earrings",
-    "score": 499,
+    "score": 500,
     "id": 1303
   },
   {
@@ -19653,7 +19653,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Lunar New Year Shoes",
-    "score": 363,
+    "score": 364,
     "id": 1304
   },
   {
@@ -19661,7 +19661,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Magical Staff",
-    "score": 503,
+    "score": 504,
     "id": 1305
   },
   {
@@ -19669,7 +19669,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Magic Hat Face",
-    "score": 501,
+    "score": 502,
     "id": 1306
   },
   {
@@ -19677,7 +19677,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Mailbox Hat",
-    "score": 504,
+    "score": 505,
     "id": 1307
   },
   {
@@ -19693,7 +19693,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Monstera Leaf Cape",
-    "score": 506,
+    "score": 507,
     "id": 1309
   },
   {
@@ -19709,7 +19709,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Orange Hat",
-    "score": 509,
+    "score": 510,
     "id": 1311
   },
   {
@@ -19765,7 +19765,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Police Cap",
-    "score": 375,
+    "score": 376,
     "id": 1318
   },
   {
@@ -19773,7 +19773,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Purple Masquerade Mask",
-    "score": 377,
+    "score": 378,
     "id": 1319
   },
   {
@@ -19813,7 +19813,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Regal Collar",
-    "score": 667,
+    "score": 668,
     "id": 1324
   },
   {
@@ -19829,7 +19829,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Reindeer Hood",
-    "score": 385,
+    "score": 386,
     "id": 1326
   },
   {
@@ -19845,7 +19845,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "RGB Laptop",
-    "score": 669,
+    "score": 670,
     "id": 1328
   },
   {
@@ -19877,7 +19877,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Shooting Star Glasses",
-    "score": 391,
+    "score": 392,
     "id": 1332
   },
   {
@@ -19885,7 +19885,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Skeleton Shell",
-    "score": 393,
+    "score": 394,
     "id": 1333
   },
   {
@@ -19893,7 +19893,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Skull Bow",
-    "score": 530,
+    "score": 531,
     "id": 1334
   },
   {
@@ -19901,7 +19901,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Skull Toy",
-    "score": 394,
+    "score": 395,
     "id": 1335
   },
   {
@@ -19909,7 +19909,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Sock Hat",
-    "score": 684,
+    "score": 685,
     "id": 1336
   },
   {
@@ -19917,7 +19917,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Sorcerer Wand",
-    "score": 689,
+    "score": 690,
     "id": 1337
   },
   {
@@ -19941,7 +19941,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Spikey Goggles",
-    "score": 534,
+    "score": 535,
     "id": 1340
   },
   {
@@ -19949,7 +19949,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Sports Hat",
-    "score": 692,
+    "score": 693,
     "id": 1341
   },
   {
@@ -19957,7 +19957,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Star Badge",
-    "score": 695,
+    "score": 696,
     "id": 1342
   },
   {
@@ -19965,7 +19965,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Stethoscope",
-    "score": 699,
+    "score": 700,
     "id": 1343
   },
   {
@@ -19973,7 +19973,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Sticky Hand Earrings",
-    "score": 700,
+    "score": 701,
     "id": 1344
   },
   {
@@ -19989,7 +19989,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Stylish Neckerchief",
-    "score": 399,
+    "score": 400,
     "id": 1346
   },
   {
@@ -20021,7 +20021,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Sword",
-    "score": 703,
+    "score": 704,
     "id": 1350
   },
   {
@@ -20029,7 +20029,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Three Egg Basket",
-    "score": 401,
+    "score": 402,
     "id": 1351
   },
   {
@@ -20037,7 +20037,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Tundra Explorer Goggles",
-    "score": 705,
+    "score": 706,
     "id": 1352
   },
   {
@@ -20053,7 +20053,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Volcanic Boots",
-    "score": 286,
+    "score": 287,
     "id": 1354
   },
   {
@@ -20061,7 +20061,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "VR Goggles",
-    "score": 406,
+    "score": 407,
     "id": 1355
   },
   {
@@ -20069,7 +20069,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Walrus Tusks",
-    "score": 543,
+    "score": 544,
     "id": 1356
   },
   {
@@ -20085,7 +20085,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Watermelon Shoes",
-    "score": 409,
+    "score": 410,
     "id": 1358
   },
   {
@@ -20093,7 +20093,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Web Cape",
-    "score": 545,
+    "score": 546,
     "id": 1359
   },
   {
@@ -20101,7 +20101,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Wesekh ",
-    "score": 711,
+    "score": 712,
     "id": 1360
   },
   {
@@ -20109,7 +20109,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Whistle Necklace",
-    "score": 712,
+    "score": 713,
     "id": 1361
   },
   {
@@ -20117,7 +20117,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Wicked Boots",
-    "score": 547,
+    "score": 548,
     "id": 1362
   },
   {
@@ -20133,7 +20133,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Winged Medal",
-    "score": 548,
+    "score": 549,
     "id": 1364
   },
   {
@@ -20141,7 +20141,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Winged Necklace",
-    "score": 412,
+    "score": 413,
     "id": 1365
   },
   {
@@ -20165,7 +20165,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Wreath Necklace",
-    "score": 413,
+    "score": 414,
     "id": 1368
   },
   {
@@ -20197,7 +20197,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Aviators",
-    "score": 425,
+    "score": 426,
     "id": 1372
   },
   {
@@ -20205,7 +20205,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Balloon Wings",
-    "score": 427,
+    "score": 428,
     "id": 1373
   },
   {
@@ -20213,7 +20213,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Beach Umbrella",
-    "score": 428,
+    "score": 429,
     "id": 1374
   },
   {
@@ -20221,7 +20221,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Bear Cap",
-    "score": 298,
+    "score": 299,
     "id": 1375
   },
   {
@@ -20229,7 +20229,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Bear Keychain",
-    "score": 299,
+    "score": 300,
     "id": 1376
   },
   {
@@ -20237,7 +20237,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Bee Hive",
-    "score": 300,
+    "score": 301,
     "id": 1377
   },
   {
@@ -20245,7 +20245,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Belgium Scarf",
-    "score": 572,
+    "score": 573,
     "id": 1378
   },
   {
@@ -20253,7 +20253,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Beret",
-    "score": 303,
+    "score": 304,
     "id": 1379
   },
   {
@@ -20261,7 +20261,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Black 5 Panel Cap",
-    "score": 429,
+    "score": 430,
     "id": 1380
   },
   {
@@ -20285,7 +20285,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Bolero Hat",
-    "score": 431,
+    "score": 432,
     "id": 1383
   },
   {
@@ -20309,7 +20309,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Brim Beanie",
-    "score": 433,
+    "score": 434,
     "id": 1386
   },
   {
@@ -20317,7 +20317,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Bunny Straw Hat",
-    "score": 308,
+    "score": 309,
     "id": 1387
   },
   {
@@ -20325,7 +20325,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Buttercup Collar",
-    "score": 434,
+    "score": 435,
     "id": 1388
   },
   {
@@ -20333,7 +20333,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Butterfly Clip",
-    "score": 435,
+    "score": 436,
     "id": 1389
   },
   {
@@ -20349,7 +20349,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Buttoned Front",
-    "score": 578,
+    "score": 579,
     "id": 1391
   },
   {
@@ -20365,7 +20365,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Captain's Jacket",
-    "score": 310,
+    "score": 311,
     "id": 1393
   },
   {
@@ -20373,7 +20373,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Carrot Headphones",
-    "score": 581,
+    "score": 582,
     "id": 1394
   },
   {
@@ -20381,7 +20381,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Carrot On A Stick",
-    "score": 582,
+    "score": 583,
     "id": 1395
   },
   {
@@ -20397,7 +20397,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Cherry Blossom Glasses",
-    "score": 584,
+    "score": 585,
     "id": 1397
   },
   {
@@ -20405,7 +20405,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Clown Wig",
-    "score": 438,
+    "score": 439,
     "id": 1398
   },
   {
@@ -20413,7 +20413,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Combat Target Dummy",
-    "score": 729,
+    "score": 730,
     "id": 1399
   },
   {
@@ -20429,7 +20429,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Cowboy Boots",
-    "score": 442,
+    "score": 443,
     "id": 1401
   },
   {
@@ -20437,7 +20437,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Cyborg Eye",
-    "score": 733,
+    "score": 734,
     "id": 1402
   },
   {
@@ -20445,7 +20445,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Daisy Glasses",
-    "score": 447,
+    "score": 448,
     "id": 1403
   },
   {
@@ -20453,7 +20453,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Denmark Soccer Earrings",
-    "score": 734,
+    "score": 735,
     "id": 1404
   },
   {
@@ -20461,7 +20461,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Dueling Swords",
-    "score": 736,
+    "score": 737,
     "id": 1405
   },
   {
@@ -20469,7 +20469,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Eco Blue Recyling Bin Hat",
-    "score": 597,
+    "score": 598,
     "id": 1406
   },
   {
@@ -20477,7 +20477,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Eco Blue Reusable Bottle Backpack",
-    "score": 452,
+    "score": 453,
     "id": 1407
   },
   {
@@ -20485,7 +20485,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Eco Blue Solar Panel Backpack",
-    "score": 453,
+    "score": 454,
     "id": 1408
   },
   {
@@ -20493,7 +20493,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Eco Green Leaf Afro",
-    "score": 598,
+    "score": 599,
     "id": 1409
   },
   {
@@ -20501,7 +20501,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Eco Green Leaf Glasses",
-    "score": 454,
+    "score": 455,
     "id": 1410
   },
   {
@@ -20509,7 +20509,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Eco Orange Leaf Wings",
-    "score": 599,
+    "score": 600,
     "id": 1411
   },
   {
@@ -20517,7 +20517,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Eco Orange Maple Earrings",
-    "score": 600,
+    "score": 601,
     "id": 1412
   },
   {
@@ -20525,7 +20525,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Eco Orange Maple Leaf Scarf",
-    "score": 455,
+    "score": 456,
     "id": 1413
   },
   {
@@ -20533,7 +20533,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Egg Barrette",
-    "score": 602,
+    "score": 603,
     "id": 1414
   },
   {
@@ -20541,7 +20541,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Eggnog Hat",
-    "score": 327,
+    "score": 328,
     "id": 1415
   },
   {
@@ -20549,7 +20549,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "England Soccer Boots",
-    "score": 737,
+    "score": 738,
     "id": 1416
   },
   {
@@ -20557,7 +20557,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Evil Headphones",
-    "score": 456,
+    "score": 457,
     "id": 1417
   },
   {
@@ -20565,7 +20565,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Explorer Hat",
-    "score": 457,
+    "score": 458,
     "id": 1418
   },
   {
@@ -20573,7 +20573,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Fall Wreath Necklace",
-    "score": 738,
+    "score": 739,
     "id": 1419
   },
   {
@@ -20589,7 +20589,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Festive Tree Hat",
-    "score": 332,
+    "score": 333,
     "id": 1421
   },
   {
@@ -20605,7 +20605,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Flower Coche",
-    "score": 464,
+    "score": 465,
     "id": 1424
   },
   {
@@ -20613,7 +20613,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Flower Drop Earrings",
-    "score": 613,
+    "score": 614,
     "id": 1425
   },
   {
@@ -20629,7 +20629,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Flowery Sunhat",
-    "score": 466,
+    "score": 467,
     "id": 1427
   },
   {
@@ -20637,7 +20637,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Fossil Isle Pickaxe",
-    "score": 616,
+    "score": 617,
     "id": 1428
   },
   {
@@ -20645,7 +20645,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "France Soccer Cap",
-    "score": 742,
+    "score": 743,
     "id": 1429
   },
   {
@@ -20653,7 +20653,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Froggy Hat",
-    "score": 619,
+    "score": 620,
     "id": 1430
   },
   {
@@ -20661,7 +20661,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Galaxy Boots",
-    "score": 744,
+    "score": 745,
     "id": 1431
   },
   {
@@ -20669,7 +20669,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Galaxy Collar",
-    "score": 745,
+    "score": 746,
     "id": 1432
   },
   {
@@ -20677,7 +20677,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Germany Bucket Hat",
-    "score": 622,
+    "score": 623,
     "id": 1433
   },
   {
@@ -20685,7 +20685,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Gingerbread Bread",
-    "score": 623,
+    "score": 624,
     "id": 1434
   },
   {
@@ -20709,7 +20709,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Hair Buns",
-    "score": 480,
+    "score": 481,
     "id": 1437
   },
   {
@@ -20717,7 +20717,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Halloween Black Cauldron Hat",
-    "score": 347,
+    "score": 348,
     "id": 1438
   },
   {
@@ -20741,7 +20741,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Halloween Orange Candy Corn Earrings",
-    "score": 348,
+    "score": 349,
     "id": 1441
   },
   {
@@ -20757,7 +20757,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Heart Eyepatch",
-    "score": 747,
+    "score": 748,
     "id": 1443
   },
   {
@@ -20765,7 +20765,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Heavy Anvil",
-    "score": 629,
+    "score": 630,
     "id": 1444
   },
   {
@@ -20773,7 +20773,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Holly Crown",
-    "score": 630,
+    "score": 631,
     "id": 1445
   },
   {
@@ -20781,7 +20781,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Honey Bee Collar",
-    "score": 484,
+    "score": 485,
     "id": 1446
   },
   {
@@ -20789,7 +20789,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Hoop Earrings",
-    "score": 351,
+    "score": 352,
     "id": 1447
   },
   {
@@ -20797,7 +20797,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Hot Cocoa Hat",
-    "score": 352,
+    "score": 353,
     "id": 1448
   },
   {
@@ -20805,7 +20805,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Hourglass",
-    "score": 485,
+    "score": 486,
     "id": 1449
   },
   {
@@ -20813,7 +20813,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Human Feet Shoes",
-    "score": 632,
+    "score": 633,
     "id": 1450
   },
   {
@@ -20829,7 +20829,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Italy Scarf",
-    "score": 634,
+    "score": 635,
     "id": 1452
   },
   {
@@ -20837,7 +20837,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Jack-O-Lantern Shades",
-    "score": 635,
+    "score": 636,
     "id": 1453
   },
   {
@@ -20845,7 +20845,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Joystick Controller",
-    "score": 638,
+    "score": 639,
     "id": 1454
   },
   {
@@ -20853,7 +20853,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Kaijunior Hat",
-    "score": 639,
+    "score": 640,
     "id": 1455
   },
   {
@@ -20861,7 +20861,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Knight Helmet",
-    "score": 491,
+    "score": 492,
     "id": 1456
   },
   {
@@ -20869,7 +20869,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Lace Beart Backpack",
-    "score": 492,
+    "score": 493,
     "id": 1457
   },
   {
@@ -20877,7 +20877,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Lantern Earrings",
-    "score": 493,
+    "score": 494,
     "id": 1458
   },
   {
@@ -20885,7 +20885,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Lavender Scarf",
-    "score": 750,
+    "score": 751,
     "id": 1459
   },
   {
@@ -20893,7 +20893,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Leaf Hat",
-    "score": 643,
+    "score": 644,
     "id": 1460
   },
   {
@@ -20901,7 +20901,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Leprechaun Shoes",
-    "score": 495,
+    "score": 496,
     "id": 1461
   },
   {
@@ -20909,7 +20909,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Lotus Earrings",
-    "score": 646,
+    "score": 647,
     "id": 1462
   },
   {
@@ -20917,7 +20917,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Love Letter",
-    "score": 647,
+    "score": 648,
     "id": 1463
   },
   {
@@ -20933,7 +20933,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Magic Wing Badge",
-    "score": 502,
+    "score": 503,
     "id": 1465
   },
   {
@@ -20941,7 +20941,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Marching Band Cap",
-    "score": 505,
+    "score": 506,
     "id": 1466
   },
   {
@@ -20949,7 +20949,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Marshmallow Friend",
-    "score": 365,
+    "score": 366,
     "id": 1467
   },
   {
@@ -20957,7 +20957,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Monster Friend Hat",
-    "score": 752,
+    "score": 753,
     "id": 1468
   },
   {
@@ -20965,7 +20965,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Morion",
-    "score": 507,
+    "score": 508,
     "id": 1469
   },
   {
@@ -20981,7 +20981,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Nautilus Shell Necklace",
-    "score": 368,
+    "score": 369,
     "id": 1471
   },
   {
@@ -20989,7 +20989,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Netherlands Bucket Hat",
-    "score": 550,
+    "score": 551,
     "id": 1472
   },
   {
@@ -20997,7 +20997,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Ninja Headband",
-    "score": 369,
+    "score": 370,
     "id": 1473
   },
   {
@@ -21013,7 +21013,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Orange Glasses",
-    "score": 654,
+    "score": 655,
     "id": 1475
   },
   {
@@ -21021,7 +21021,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Parrot Hood",
-    "score": 511,
+    "score": 512,
     "id": 1476
   },
   {
@@ -21029,7 +21029,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Party Crown",
-    "score": 372,
+    "score": 373,
     "id": 1477
   },
   {
@@ -21037,7 +21037,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Peace Shades",
-    "score": 512,
+    "score": 513,
     "id": 1478
   },
   {
@@ -21045,7 +21045,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Pearl Necklace",
-    "score": 513,
+    "score": 514,
     "id": 1479
   },
   {
@@ -21053,7 +21053,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Picnic Basket",
-    "score": 514,
+    "score": 515,
     "id": 1480
   },
   {
@@ -21061,7 +21061,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Pink 5 Panel Cap",
-    "score": 754,
+    "score": 755,
     "id": 1481
   },
   {
@@ -21069,7 +21069,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Pink Lotus",
-    "score": 374,
+    "score": 375,
     "id": 1482
   },
   {
@@ -21077,7 +21077,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Pink Trainer Shoes",
-    "score": 756,
+    "score": 757,
     "id": 1483
   },
   {
@@ -21085,7 +21085,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Pink Twintails",
-    "score": 515,
+    "score": 516,
     "id": 1484
   },
   {
@@ -21093,7 +21093,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Plunger Hat",
-    "score": 658,
+    "score": 659,
     "id": 1485
   },
   {
@@ -21101,7 +21101,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Poinsettia Hair Clip",
-    "score": 659,
+    "score": 660,
     "id": 1486
   },
   {
@@ -21109,7 +21109,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Preppy Sweater",
-    "score": 516,
+    "score": 517,
     "id": 1487
   },
   {
@@ -21117,7 +21117,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Pride Earrings",
-    "score": 661,
+    "score": 662,
     "id": 1488
   },
   {
@@ -21125,7 +21125,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Pride Glasses",
-    "score": 662,
+    "score": 663,
     "id": 1489
   },
   {
@@ -21133,7 +21133,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Pride Headphones",
-    "score": 663,
+    "score": 664,
     "id": 1490
   },
   {
@@ -21141,7 +21141,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Pride Wings",
-    "score": 518,
+    "score": 519,
     "id": 1491
   },
   {
@@ -21157,7 +21157,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Puffer Jacket",
-    "score": 759,
+    "score": 760,
     "id": 1494
   },
   {
@@ -21165,7 +21165,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Purple & Green Beads",
-    "score": 664,
+    "score": 665,
     "id": 1495
   },
   {
@@ -21173,7 +21173,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Radish Friend",
-    "score": 760,
+    "score": 761,
     "id": 1496
   },
   {
@@ -21181,7 +21181,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Rainbow Bucket Hat",
-    "score": 520,
+    "score": 521,
     "id": 1497
   },
   {
@@ -21189,7 +21189,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Raven Collar",
-    "score": 761,
+    "score": 762,
     "id": 1498
   },
   {
@@ -21197,7 +21197,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Red Beanie",
-    "score": 380,
+    "score": 381,
     "id": 1499
   },
   {
@@ -21205,7 +21205,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Red Envelope",
-    "score": 381,
+    "score": 382,
     "id": 1500
   },
   {
@@ -21213,7 +21213,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Red Scarf",
-    "score": 383,
+    "score": 384,
     "id": 1501
   },
   {
@@ -21221,7 +21221,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Red & Yellow Beads",
-    "score": 379,
+    "score": 380,
     "id": 1502
   },
   {
@@ -21229,7 +21229,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "RGB Headset",
-    "score": 523,
+    "score": 524,
     "id": 1503
   },
   {
@@ -21237,7 +21237,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Rice Cake Hat",
-    "score": 524,
+    "score": 525,
     "id": 1504
   },
   {
@@ -21245,7 +21245,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Romania Soccer Cap",
-    "score": 671,
+    "score": 672,
     "id": 1505
   },
   {
@@ -21253,7 +21253,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Rose",
-    "score": 764,
+    "score": 765,
     "id": 1506
   },
   {
@@ -21293,7 +21293,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Safety Pin Beanie",
-    "score": 526,
+    "score": 527,
     "id": 1511
   },
   {
@@ -21317,7 +21317,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Shooting Star Earrings",
-    "score": 527,
+    "score": 528,
     "id": 1514
   },
   {
@@ -21325,7 +21325,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Shooting Star Wings",
-    "score": 675,
+    "score": 676,
     "id": 1515
   },
   {
@@ -21333,7 +21333,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Shovel",
-    "score": 528,
+    "score": 529,
     "id": 1516
   },
   {
@@ -21357,7 +21357,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Silver Medal",
-    "score": 529,
+    "score": 530,
     "id": 1519
   },
   {
@@ -21365,7 +21365,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Skater Helmet",
-    "score": 676,
+    "score": 677,
     "id": 1520
   },
   {
@@ -21373,7 +21373,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Sleigh Earrings",
-    "score": 679,
+    "score": 680,
     "id": 1521
   },
   {
@@ -21381,7 +21381,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Snack And Beverage Carrier",
-    "score": 554,
+    "score": 555,
     "id": 1522
   },
   {
@@ -21389,7 +21389,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Snorkel Set",
-    "score": 555,
+    "score": 556,
     "id": 1523
   },
   {
@@ -21397,7 +21397,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Snowflake Earrings",
-    "score": 682,
+    "score": 683,
     "id": 1524
   },
   {
@@ -21405,7 +21405,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Snowman Nose",
-    "score": 556,
+    "score": 557,
     "id": 1525
   },
   {
@@ -21413,7 +21413,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Socks & Sandals",
-    "score": 686,
+    "score": 687,
     "id": 1526
   },
   {
@@ -21421,7 +21421,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Sombrero",
-    "score": 688,
+    "score": 689,
     "id": 1527
   },
   {
@@ -21429,7 +21429,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Spain Soccer Earrings",
-    "score": 690,
+    "score": 691,
     "id": 1528
   },
   {
@@ -21437,7 +21437,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Spider Web Crown",
-    "score": 420,
+    "score": 421,
     "id": 1529
   },
   {
@@ -21445,7 +21445,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Spikey Hair Wig",
-    "score": 557,
+    "score": 558,
     "id": 1530
   },
   {
@@ -21453,7 +21453,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Sports Shirt",
-    "score": 558,
+    "score": 559,
     "id": 1531
   },
   {
@@ -21461,7 +21461,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Spring Glasses",
-    "score": 693,
+    "score": 694,
     "id": 1532
   },
   {
@@ -21469,7 +21469,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Spyglass Glasses",
-    "score": 694,
+    "score": 695,
     "id": 1533
   },
   {
@@ -21477,7 +21477,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Steel Toe Heel",
-    "score": 698,
+    "score": 699,
     "id": 1534
   },
   {
@@ -21485,7 +21485,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Sticky Stick",
-    "score": 701,
+    "score": 702,
     "id": 1535
   },
   {
@@ -21501,7 +21501,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Striped Necktie",
-    "score": 559,
+    "score": 560,
     "id": 1537
   },
   {
@@ -21509,7 +21509,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Switzerland Soccer Boots",
-    "score": 702,
+    "score": 703,
     "id": 1538
   },
   {
@@ -21517,7 +21517,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Target Board",
-    "score": 536,
+    "score": 537,
     "id": 1539
   },
   {
@@ -21525,7 +21525,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Ten Gallon Hat",
-    "score": 560,
+    "score": 561,
     "id": 1540
   },
   {
@@ -21533,7 +21533,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Traffic Cone",
-    "score": 561,
+    "score": 562,
     "id": 1541
   },
   {
@@ -21541,7 +21541,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "TV Hood",
-    "score": 707,
+    "score": 708,
     "id": 1542
   },
   {
@@ -21549,7 +21549,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Two-Toned Fedora",
-    "score": 562,
+    "score": 563,
     "id": 1543
   },
   {
@@ -21557,7 +21557,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Umbrella Hat",
-    "score": 708,
+    "score": 709,
     "id": 1544
   },
   {
@@ -21573,7 +21573,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Victorial Collar",
-    "score": 285,
+    "score": 286,
     "id": 1546
   },
   {
@@ -21581,7 +21581,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Viking Beard",
-    "score": 563,
+    "score": 564,
     "id": 1547
   },
   {
@@ -21589,7 +21589,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Welder's Mask",
-    "score": 564,
+    "score": 565,
     "id": 1548
   },
   {
@@ -21597,7 +21597,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "White Cozy Hood",
-    "score": 713,
+    "score": 714,
     "id": 1549
   },
   {
@@ -21605,7 +21605,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Wind Turbine Earrings",
-    "score": 565,
+    "score": 566,
     "id": 1550
   },
   {
@@ -21613,7 +21613,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Winter Scarf",
-    "score": 566,
+    "score": 567,
     "id": 1551
   },
   {
@@ -21621,7 +21621,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Witch Boots",
-    "score": 715,
+    "score": 716,
     "id": 1552
   },
   {
@@ -21629,7 +21629,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Witch Broom",
-    "score": 416,
+    "score": 417,
     "id": 1553
   },
   {
@@ -21645,7 +21645,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Wool Beard",
-    "score": 716,
+    "score": 717,
     "id": 1555
   },
   {
@@ -21653,7 +21653,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Yarn Ball Earrings",
-    "score": 567,
+    "score": 568,
     "id": 1556
   },
   {
@@ -21661,7 +21661,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Yellow 5 Panel Cap",
-    "score": 718,
+    "score": 719,
     "id": 1557
   },
   {
@@ -21669,7 +21669,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Yellow Beanie",
-    "score": 719,
+    "score": 720,
     "id": 1558
   },
   {
@@ -21677,7 +21677,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Arrow Head",
-    "score": 417,
+    "score": 418,
     "id": 1559
   },
   {
@@ -21717,7 +21717,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Bear Winter Hat",
-    "score": 722,
+    "score": 723,
     "id": 1564
   },
   {
@@ -21749,7 +21749,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Blue Backpack",
-    "score": 723,
+    "score": 724,
     "id": 1568
   },
   {
@@ -21765,7 +21765,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Bowler",
-    "score": 724,
+    "score": 725,
     "id": 1570
   },
   {
@@ -21797,7 +21797,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Bucket Hat",
-    "score": 725,
+    "score": 726,
     "id": 1574
   },
   {
@@ -21837,7 +21837,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Candy Corn Hat",
-    "score": 726,
+    "score": 727,
     "id": 1579
   },
   {
@@ -21869,7 +21869,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Clam Wings",
-    "score": 586,
+    "score": 587,
     "id": 1583
   },
   {
@@ -21885,7 +21885,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Clear Glasses",
-    "score": 728,
+    "score": 729,
     "id": 1585
   },
   {
@@ -21893,7 +21893,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Construction Hat",
-    "score": 730,
+    "score": 731,
     "id": 1586
   },
   {
@@ -21909,7 +21909,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Cowboy Hat",
-    "score": 731,
+    "score": 732,
     "id": 1588
   },
   {
@@ -21917,7 +21917,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Cute Circle Glasses",
-    "score": 732,
+    "score": 733,
     "id": 1589
   },
   {
@@ -21925,7 +21925,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Da Wingci Wings",
-    "score": 589,
+    "score": 590,
     "id": 1590
   },
   {
@@ -21933,7 +21933,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Detective Hat",
-    "score": 590,
+    "score": 591,
     "id": 1591
   },
   {
@@ -21941,7 +21941,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Detective Mustache",
-    "score": 591,
+    "score": 592,
     "id": 1592
   },
   {
@@ -21949,7 +21949,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Disguise Glasses",
-    "score": 592,
+    "score": 593,
     "id": 1593
   },
   {
@@ -21957,7 +21957,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Drinks Cooler",
-    "score": 735,
+    "score": 736,
     "id": 1594
   },
   {
@@ -21965,7 +21965,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Eco Black Tree Motif Cap",
-    "score": 596,
+    "score": 597,
     "id": 1595
   },
   {
@@ -22037,7 +22037,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Eco Red Apple Basket Hat",
-    "score": 601,
+    "score": 602,
     "id": 1604
   },
   {
@@ -22045,7 +22045,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Eco Red Apple Hat",
-    "score": 552,
+    "score": 553,
     "id": 1605
   },
   {
@@ -22077,7 +22077,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Feather Boa",
-    "score": 609,
+    "score": 610,
     "id": 1609
   },
   {
@@ -22117,7 +22117,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Flower Bunny Ears",
-    "score": 739,
+    "score": 740,
     "id": 1614
   },
   {
@@ -22125,7 +22125,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Flower Lapel",
-    "score": 740,
+    "score": 741,
     "id": 1615
   },
   {
@@ -22141,7 +22141,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Footwrap Shoes",
-    "score": 741,
+    "score": 742,
     "id": 1617
   },
   {
@@ -22157,7 +22157,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Fox Ear Beret",
-    "score": 617,
+    "score": 618,
     "id": 1619
   },
   {
@@ -22181,7 +22181,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Funky Disco Boots",
-    "score": 743,
+    "score": 744,
     "id": 1622
   },
   {
@@ -22189,7 +22189,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Gardener Hat",
-    "score": 621,
+    "score": 622,
     "id": 1623
   },
   {
@@ -22245,7 +22245,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Heart Bucket Hat",
-    "score": 746,
+    "score": 747,
     "id": 1630
   },
   {
@@ -22253,7 +22253,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Heart Heels",
-    "score": 628,
+    "score": 629,
     "id": 1631
   },
   {
@@ -22261,7 +22261,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Heart Lock Necklace",
-    "score": 748,
+    "score": 749,
     "id": 1632
   },
   {
@@ -22317,7 +22317,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Laced Yellow Heels",
-    "score": 641,
+    "score": 642,
     "id": 1639
   },
   {
@@ -22325,7 +22325,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Leaf Sprout Hat",
-    "score": 644,
+    "score": 645,
     "id": 1640
   },
   {
@@ -22341,7 +22341,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Life Preserver",
-    "score": 645,
+    "score": 646,
     "id": 1642
   },
   {
@@ -22365,7 +22365,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Magnifying Glass",
-    "score": 751,
+    "score": 752,
     "id": 1645
   },
   {
@@ -22389,7 +22389,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Moon Boots",
-    "score": 649,
+    "score": 650,
     "id": 1648
   },
   {
@@ -22397,7 +22397,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Nap Mask",
-    "score": 650,
+    "score": 651,
     "id": 1649
   },
   {
@@ -22421,7 +22421,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Nest",
-    "score": 651,
+    "score": 652,
     "id": 1652
   },
   {
@@ -22429,7 +22429,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Newsboy Cap",
-    "score": 652,
+    "score": 653,
     "id": 1653
   },
   {
@@ -22437,7 +22437,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Nose Goop",
-    "score": 753,
+    "score": 754,
     "id": 1654
   },
   {
@@ -22453,7 +22453,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Paper Wings",
-    "score": 655,
+    "score": 656,
     "id": 1656
   },
   {
@@ -22469,7 +22469,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Pink Bowtie",
-    "score": 755,
+    "score": 756,
     "id": 1658
   },
   {
@@ -22477,7 +22477,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Pink Cap",
-    "score": 656,
+    "score": 657,
     "id": 1659
   },
   {
@@ -22485,7 +22485,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Pocket Protector",
-    "score": 757,
+    "score": 758,
     "id": 1660
   },
   {
@@ -22501,7 +22501,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Prescription Glasses",
-    "score": 517,
+    "score": 518,
     "id": 1662
   },
   {
@@ -22509,7 +22509,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Pretty Red Bow",
-    "score": 758,
+    "score": 759,
     "id": 1663
   },
   {
@@ -22517,7 +22517,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Pretzel Eye Patch",
-    "score": 660,
+    "score": 661,
     "id": 1664
   },
   {
@@ -22541,7 +22541,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Raven Hood",
-    "score": 762,
+    "score": 763,
     "id": 1667
   },
   {
@@ -22565,7 +22565,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Red Butterfly",
-    "score": 763,
+    "score": 764,
     "id": 1670
   },
   {
@@ -22589,7 +22589,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Red Ribbon",
-    "score": 666,
+    "score": 667,
     "id": 1673
   },
   {
@@ -22613,7 +22613,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Ronin Hat",
-    "score": 553,
+    "score": 554,
     "id": 1676
   },
   {
@@ -22621,7 +22621,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Safety Scissors",
-    "score": 765,
+    "score": 766,
     "id": 1677
   },
   {
@@ -22629,7 +22629,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Sakura Earrings",
-    "score": 672,
+    "score": 673,
     "id": 1678
   },
   {
@@ -22637,7 +22637,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Saucepan Hat",
-    "score": 673,
+    "score": 674,
     "id": 1679
   },
   {
@@ -22645,7 +22645,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Sausage Link",
-    "score": 674,
+    "score": 675,
     "id": 1680
   },
   {
@@ -22661,7 +22661,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Sketchbook",
-    "score": 766,
+    "score": 767,
     "id": 1682
   },
   {
@@ -22669,7 +22669,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Ski Goggles",
-    "score": 677,
+    "score": 678,
     "id": 1683
   },
   {
@@ -22677,7 +22677,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Skis",
-    "score": 678,
+    "score": 679,
     "id": 1684
   },
   {
@@ -22685,7 +22685,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Slime Backpack",
-    "score": 680,
+    "score": 681,
     "id": 1685
   },
   {
@@ -22693,7 +22693,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Slime Shades",
-    "score": 681,
+    "score": 682,
     "id": 1686
   },
   {
@@ -22701,7 +22701,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Snowman Winter Hat",
-    "score": 683,
+    "score": 684,
     "id": 1687
   },
   {
@@ -22709,7 +22709,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Snowy Tree Hat",
-    "score": 767,
+    "score": 768,
     "id": 1688
   },
   {
@@ -22717,7 +22717,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Sock Shoes",
-    "score": 685,
+    "score": 686,
     "id": 1689
   },
   {
@@ -22725,7 +22725,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Sports Shoes",
-    "score": 768,
+    "score": 769,
     "id": 1690
   },
   {
@@ -22749,7 +22749,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Star Barrette",
-    "score": 696,
+    "score": 697,
     "id": 1693
   },
   {
@@ -22757,7 +22757,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Star Hoodie",
-    "score": 697,
+    "score": 698,
     "id": 1694
   },
   {
@@ -22829,7 +22829,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Tusks",
-    "score": 706,
+    "score": 707,
     "id": 1703
   },
   {
@@ -22861,7 +22861,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Watery Wings",
-    "score": 421,
+    "score": 422,
     "id": 1708
   },
   {
@@ -22894,7 +22894,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Yarn Ball Toy",
-    "score": 717,
+    "score": 718,
     "id": 1713
   },
   {
@@ -22918,7 +22918,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Treasure Chest Back Accessory",
-    "score": 538,
+    "score": 539,
     "id": 1716
   },
   {
@@ -22926,7 +22926,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Jolly Roger Backpack",
-    "score": 356,
+    "score": 357,
     "id": 1717
   },
   {
@@ -22934,7 +22934,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Coconut Shoes",
-    "score": 587,
+    "score": 588,
     "id": 1718
   },
   {
@@ -22942,7 +22942,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Fancy Top Hat (Ringmaster Gibbon)",
-    "score": 607,
+    "score": 608,
     "id": 1719
   },
   {
@@ -23083,7 +23083,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Dino Truck",
-    "score": 137,
+    "score": 138,
     "id": 1731
   },
   {
@@ -23252,7 +23252,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Personal Cannon Launcher",
-    "score": 170,
+    "score": 174,
     "id": 1740
   },
   {
@@ -28167,7 +28167,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Princess Booties",
-    "score": 376,
+    "score": 377,
     "id": 2355
   },
   {
@@ -28191,7 +28191,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Hook Earrings",
-    "score": 631,
+    "score": 632,
     "id": 2359
   },
   {
@@ -28199,7 +28199,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Pirate Row Boat",
-    "score": 171,
+    "score": 175,
     "id": 2360
   },
   {
@@ -28598,7 +28598,7 @@
     "rarity": "ultra rare",
     "type": "strollers",
     "name": "Red Wagon Stroller",
-    "score": 58,
+    "score": 57,
     "id": 2408
   },
   {
@@ -28614,7 +28614,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Pirate Captain Stroller",
-    "score": 57,
+    "score": 56,
     "id": 2410
   },
   {
@@ -28702,7 +28702,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Snowman Stroller",
-    "score": 73,
+    "score": 74,
     "id": 2421
   },
   {
@@ -28718,7 +28718,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Pelican Stroller",
-    "score": 70,
+    "score": 71,
     "id": 2423
   },
   {
@@ -28726,7 +28726,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Princess Stroller",
-    "score": 72,
+    "score": 73,
     "id": 2424
   },
   {
@@ -28742,7 +28742,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Plane Stroller",
-    "score": 71,
+    "score": 72,
     "id": 2426
   },
   {
@@ -28750,7 +28750,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Soy Sauce Stroller",
-    "score": 74,
+    "score": 75,
     "id": 2427
   },
   {
@@ -28766,7 +28766,7 @@
     "rarity": "ultra rare",
     "type": "strollers",
     "name": "Lunar New Year Rickshaw Stroller",
-    "score": 76,
+    "score": 77,
     "id": 2429
   },
   {
@@ -28774,7 +28774,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Apple Barrel Stroller",
-    "score": 75,
+    "score": 76,
     "id": 2430
   },
   {
@@ -28782,7 +28782,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Ice Skate Stroller",
-    "score": 79,
+    "score": 80,
     "id": 2431
   },
   {
@@ -28799,7 +28799,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Crate Stroller",
-    "score": 77,
+    "score": 78,
     "id": 2433
   },
   {
@@ -28807,7 +28807,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "RGB Stroller",
-    "score": 82,
+    "score": 83,
     "id": 2434
   },
   {
@@ -28815,7 +28815,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Potion Stroller",
-    "score": 81,
+    "score": 82,
     "id": 2435
   },
   {
@@ -28823,7 +28823,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Magic Moon Stroller",
-    "score": 80,
+    "score": 81,
     "id": 2436
   },
   {
@@ -28831,7 +28831,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Sailboat Stroller",
-    "score": 83,
+    "score": 84,
     "id": 2437
   },
   {
@@ -28839,7 +28839,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Hot Cocoa Stroller",
-    "score": 84,
+    "score": 85,
     "id": 2438
   },
   {
@@ -28847,7 +28847,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Shipwreck Stroller",
-    "score": 85,
+    "score": 86,
     "id": 2439
   },
   {
@@ -28855,7 +28855,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Spikey Chariot Stroller",
-    "score": 86,
+    "score": 87,
     "id": 2440
   },
   {
@@ -28863,7 +28863,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Strawberry Stroller",
-    "score": 87,
+    "score": 88,
     "id": 2441
   },
   {
@@ -28871,7 +28871,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Meadow Barrow Stroller",
-    "score": 88,
+    "score": 89,
     "id": 2442
   },
   {
@@ -28879,7 +28879,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Sleigh Stroller",
-    "score": 89,
+    "score": 90,
     "id": 2443
   },
   {
@@ -28887,7 +28887,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "Flip Phone Stroller",
-    "score": 90,
+    "score": 91,
     "id": 2444
   },
   {
@@ -28895,7 +28895,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Magic Carpet Stroller",
-    "score": 91,
+    "score": 92,
     "id": 2445
   },
   {
@@ -28911,7 +28911,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Coconut Stroller",
-    "score": 95,
+    "score": 96,
     "id": 2447
   },
   {
@@ -28919,7 +28919,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Camper's Wheelbarrow Stroller",
-    "score": 93,
+    "score": 94,
     "id": 2448
   },
   {
@@ -28927,7 +28927,7 @@
     "rarity": "common",
     "type": "strollers",
     "name": "Big Leaf Stroller",
-    "score": 92,
+    "score": 93,
     "id": 2449
   },
   {
@@ -28935,7 +28935,7 @@
     "rarity": "common",
     "type": "strollers",
     "name": "Clam Stroller",
-    "score": 94,
+    "score": 95,
     "id": 2450,
     "hidden": true
   },
@@ -28944,7 +28944,7 @@
     "rarity": "common",
     "type": "strollers",
     "name": "Shopping Cart Stroller",
-    "score": 97,
+    "score": 98,
     "id": 2451
   },
   {
@@ -28952,7 +28952,7 @@
     "rarity": "common",
     "type": "strollers",
     "name": "Trike Stroller (2022)",
-    "score": 98,
+    "score": 99,
     "id": 2452
   },
   {
@@ -28960,7 +28960,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Stroller",
-    "score": 99,
+    "score": 100,
     "id": 2453
   },
   {
@@ -29025,7 +29025,7 @@
     "rarity": "rare",
     "type": "strollers",
     "name": "High Heel Stroller",
-    "score": 78,
+    "score": 79,
     "id": 2462
   },
   {
@@ -29041,7 +29041,7 @@
     "rarity": "uncommon",
     "type": "strollers",
     "name": "Old Lump Of Log Stroller",
-    "score": 96,
+    "score": 97,
     "id": 2464
   },
   {
@@ -30237,26 +30237,26 @@
     "id": 2557
   },
   {
-    "rvalue": 5.25,
-    "nvalue": 24,
-    "mvalue": 100,
-    "rvalue - nopotion": 5.25,
-    "rvalue - ride": 5.55,
-    "rvalue - fly": 5.6,
-    "rvalue - fly&ride": 6,
-    "nvalue - nopotion": 22,
-    "nvalue - ride": 23,
-    "nvalue - fly": 23,
-    "nvalue - fly&ride": 24,
-    "mvalue - nopotion": 96,
-    "mvalue - ride": 97.5,
-    "mvalue - fly": 98.75,
-    "mvalue - fly&ride": 100,
+    "rvalue": 4.75,
+    "nvalue": 22,
+    "mvalue": 91,
+    "rvalue - nopotion": 4.75,
+    "rvalue - ride": 5.05,
+    "rvalue - fly": 5.1,
+    "rvalue - fly&ride": 5.5,
+    "nvalue - nopotion": 20,
+    "nvalue - ride": 21,
+    "nvalue - fly": 21,
+    "nvalue - fly&ride": 22,
+    "mvalue - nopotion": 87,
+    "mvalue - ride": 88.5,
+    "mvalue - fly": 89.75,
+    "mvalue - fly&ride": 91,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Dango Penguins",
-    "score": 54,
+    "score": 59,
     "id": 2558
   },
   {
@@ -30564,16 +30564,16 @@
   },
   {
     "rvalue": 3.25,
-    "nvalue": 15.5,
+    "nvalue": 16,
     "mvalue": 67,
     "rvalue - nopotion": 3.25,
     "rvalue - ride": 3.55,
     "rvalue - fly": 3.6,
     "rvalue - fly&ride": 4,
-    "nvalue - nopotion": 13.5,
-    "nvalue - ride": 14.5,
-    "nvalue - fly": 14.5,
-    "nvalue - fly&ride": 15.5,
+    "nvalue - nopotion": 14,
+    "nvalue - ride": 15,
+    "nvalue - fly": 15,
+    "nvalue - fly&ride": 16,
     "mvalue - nopotion": 64,
     "mvalue - ride": 65,
     "mvalue - fly": 65.75,
@@ -30728,7 +30728,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Banana Car",
-    "score": 135,
+    "score": 136,
     "id": 2598
   },
   {
@@ -30997,7 +30997,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Winged Cap 2",
-    "score": 714,
+    "score": 715,
     "id": 2611
   },
   {
@@ -31024,40 +31024,40 @@
     "id": 2612
   },
   {
-    "rvalue": 6.75,
-    "nvalue": 30,
-    "mvalue": 125,
-    "rvalue - nopotion": 6.75,
-    "rvalue - ride": 7.05,
-    "rvalue - fly": 7.1,
-    "rvalue - fly&ride": 7.5,
-    "nvalue - nopotion": 28,
-    "nvalue - ride": 29,
-    "nvalue - fly": 29,
-    "nvalue - fly&ride": 30,
-    "mvalue - nopotion": 121,
-    "mvalue - ride": 122.5,
-    "mvalue - fly": 123.75,
-    "mvalue - fly&ride": 125,
+    "rvalue": 6.25,
+    "nvalue": 28,
+    "mvalue": 116,
+    "rvalue - nopotion": 6.25,
+    "rvalue - ride": 6.55,
+    "rvalue - fly": 6.6,
+    "rvalue - fly&ride": 7,
+    "nvalue - nopotion": 26,
+    "nvalue - ride": 27,
+    "nvalue - fly": 27,
+    "nvalue - fly&ride": 28,
+    "mvalue - nopotion": 112,
+    "mvalue - ride": 113.5,
+    "mvalue - fly": 114.75,
+    "mvalue - fly&ride": 116,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Dragonfruit Fox",
-    "score": 45,
+    "score": 48,
     "id": 2613
   },
   {
     "rvalue": 5,
-    "nvalue": 23,
+    "nvalue": 24,
     "mvalue": 101,
     "rvalue - nopotion": 5,
     "rvalue - ride": 5.3,
     "rvalue - fly": 5.35,
     "rvalue - fly&ride": 5.75,
-    "nvalue - nopotion": 21,
-    "nvalue - ride": 22,
-    "nvalue - fly": 22,
-    "nvalue - fly&ride": 23,
+    "nvalue - nopotion": 22,
+    "nvalue - ride": 23,
+    "nvalue - fly": 23,
+    "nvalue - fly&ride": 24,
     "mvalue - nopotion": 98,
     "mvalue - ride": 99,
     "mvalue - fly": 99.75,
@@ -31066,7 +31066,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Pineapple Owl",
-    "score": 57,
+    "score": 55,
     "id": 2614
   },
   {
@@ -31262,7 +31262,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Rose Dragon",
-    "score": 71,
+    "score": 70,
     "id": 2627
   },
   {
@@ -31381,26 +31381,26 @@
     "id": 2632
   },
   {
-    "rvalue": 8.5,
-    "nvalue": 37,
-    "mvalue": 154,
-    "rvalue - nopotion": 8.5,
-    "rvalue - ride": 8.8,
-    "rvalue - fly": 8.85,
-    "rvalue - fly&ride": 9.25,
-    "nvalue - nopotion": 35,
-    "nvalue - ride": 36,
-    "nvalue - fly": 36,
-    "nvalue - fly&ride": 37,
-    "mvalue - nopotion": 150,
-    "mvalue - ride": 151.5,
-    "mvalue - fly": 152.75,
-    "mvalue - fly&ride": 154,
+    "rvalue": 8,
+    "nvalue": 35,
+    "mvalue": 145,
+    "rvalue - nopotion": 8,
+    "rvalue - ride": 8.3,
+    "rvalue - fly": 8.35,
+    "rvalue - fly&ride": 8.75,
+    "nvalue - nopotion": 33,
+    "nvalue - ride": 34,
+    "nvalue - fly": 34,
+    "nvalue - fly&ride": 35,
+    "mvalue - nopotion": 141,
+    "mvalue - ride": 142.5,
+    "mvalue - fly": 143.75,
+    "mvalue - fly&ride": 145,
     "fly&ride?": "\"true\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Silverback Gorilla",
-    "score": 35,
+    "score": 38,
     "id": 2633
   },
   {
@@ -31757,26 +31757,26 @@
     "id": 2666
   },
   {
-    "rvalue": 7.25,
-    "nvalue": 33,
-    "mvalue": 141,
-    "rvalue - nopotion": 7.25,
-    "rvalue - ride": 7.55,
-    "rvalue - fly": 7.6,
-    "rvalue - fly&ride": 8,
-    "nvalue - nopotion": 31,
-    "nvalue - ride": 32,
-    "nvalue - fly": 32,
-    "nvalue - fly&ride": 33,
-    "mvalue - nopotion": 138,
-    "mvalue - ride": 139,
-    "mvalue - fly": 139.75,
-    "mvalue - fly&ride": 141,
+    "rvalue": 7,
+    "nvalue": 32,
+    "mvalue": 137,
+    "rvalue - nopotion": 7,
+    "rvalue - ride": 7.3,
+    "rvalue - fly": 7.35,
+    "rvalue - fly&ride": 7.75,
+    "nvalue - nopotion": 30,
+    "nvalue - ride": 31,
+    "nvalue - fly": 31,
+    "nvalue - fly&ride": 32,
+    "mvalue - nopotion": 134,
+    "mvalue - ride": 135,
+    "mvalue - fly": 135.75,
+    "mvalue - fly&ride": 137,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Candicorn",
-    "score": 41,
+    "score": 42,
     "id": 2667
   },
   {
@@ -34616,7 +34616,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Micro Car",
-    "score": 133,
+    "score": 134,
     "id": 3011
   },
   {
@@ -34624,7 +34624,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Postie Van",
-    "score": 136,
+    "score": 137,
     "id": 3012
   },
   {
@@ -34632,7 +34632,7 @@
     "rarity": "legendary",
     "type": "vehicles",
     "name": "Hovertible",
-    "score": 141,
+    "score": 142,
     "id": 3013
   },
   {
@@ -34640,7 +34640,7 @@
     "rarity": "ultra rare",
     "type": "vehicles",
     "name": "Solarpunk Skates",
-    "score": 197,
+    "score": 200,
     "id": 3014
   },
   {
@@ -34648,7 +34648,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Laser Disco Skates",
-    "score": 228,
+    "score": 231,
     "id": 3015
   },
   {
@@ -34656,7 +34656,7 @@
     "rarity": "rare",
     "type": "vehicles",
     "name": "Orbital Roller Skates",
-    "score": 230,
+    "score": 233,
     "id": 3016
   },
   {
@@ -34664,7 +34664,7 @@
     "rarity": "uncommon",
     "type": "vehicles",
     "name": "Keyboard Skateboard",
-    "score": 244,
+    "score": 247,
     "id": 3017
   },
   {
@@ -35144,26 +35144,26 @@
     "id": 3076
   },
   {
-    "rvalue": 5,
+    "rvalue": 4.75,
     "nvalue": 23,
-    "mvalue": 101,
-    "rvalue - nopotion": 5,
-    "rvalue - ride": 5.3,
-    "rvalue - fly": 5.35,
-    "rvalue - fly&ride": 5.75,
+    "mvalue": 96,
+    "rvalue - nopotion": 4.75,
+    "rvalue - ride": 5.05,
+    "rvalue - fly": 5.1,
+    "rvalue - fly&ride": 5.5,
     "nvalue - nopotion": 21,
     "nvalue - ride": 22,
     "nvalue - fly": 22,
     "nvalue - fly&ride": 23,
-    "mvalue - nopotion": 98,
-    "mvalue - ride": 99,
-    "mvalue - fly": 99.75,
-    "mvalue - fly&ride": 101,
+    "mvalue - nopotion": 93,
+    "mvalue - ride": 94,
+    "mvalue - fly": 94.75,
+    "mvalue - fly&ride": 96,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Latte Kitsune",
-    "score": 56,
+    "score": 58,
     "id": 3077
   },
   {
@@ -36000,11 +36000,11 @@
     "id": 3179
   },
   {
-    "value": 0.1,
+    "value": 0.08,
     "rarity": "rare",
     "type": "strollers",
     "name": "Humbug Stroller",
-    "score": 56,
+    "score": 70,
     "id": 3180
   },
   {
@@ -36172,7 +36172,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "2026 NYE Glasses",
-    "score": 291,
+    "score": 292,
     "id": 3201
   },
   {
@@ -36180,7 +36180,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Diamond Glasses",
-    "score": 323,
+    "score": 324,
     "id": 3202
   },
   {
@@ -36188,7 +36188,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Ruby Necklace",
-    "score": 386,
+    "score": 387,
     "id": 3203
   },
   {
@@ -36196,7 +36196,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Goth Spike Boots",
-    "score": 345,
+    "score": 346,
     "id": 3204
   },
   {
@@ -36204,7 +36204,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Pink Cowboy Hat",
-    "score": 373,
+    "score": 374,
     "id": 3205
   },
   {
@@ -36212,7 +36212,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Oni Samurai Hat",
-    "score": 371,
+    "score": 372,
     "id": 3206
   },
   {
@@ -36220,7 +36220,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Red Panda Scarf",
-    "score": 382,
+    "score": 383,
     "id": 3207
   },
   {
@@ -36228,7 +36228,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Y2K Shades",
-    "score": 414,
+    "score": 415,
     "id": 3208
   },
   {
@@ -36236,7 +36236,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Stylish Messenger Bag",
-    "score": 398,
+    "score": 399,
     "id": 3209
   },
   {
@@ -36244,7 +36244,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Toaster Tart Backpack",
-    "score": 402,
+    "score": 403,
     "id": 3210
   },
   {
@@ -36252,7 +36252,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Aztec Mask",
-    "score": 294,
+    "score": 295,
     "id": 3211
   },
   {
@@ -36260,7 +36260,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "3D Printer Hat",
-    "score": 292,
+    "score": 293,
     "id": 3212
   },
   {
@@ -36268,7 +36268,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Track Paws",
-    "score": 537,
+    "score": 538,
     "id": 3213
   },
   {
@@ -36276,7 +36276,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "2D Top Hat",
-    "score": 423,
+    "score": 424,
     "id": 3214
   },
   {
@@ -36284,7 +36284,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Gold Shimmery Cape",
-    "score": 475,
+    "score": 476,
     "id": 3215
   },
   {
@@ -36292,7 +36292,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Zebra Backpack",
-    "score": 549,
+    "score": 550,
     "id": 3216
   },
   {
@@ -36300,7 +36300,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Back Pencil",
-    "score": 426,
+    "score": 427,
     "id": 3217
   },
   {
@@ -36308,7 +36308,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Heart Eyebrows",
-    "score": 482,
+    "score": 483,
     "id": 3218
   },
   {
@@ -36316,7 +36316,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Rubber Chicken Hat",
-    "score": 525,
+    "score": 526,
     "id": 3219
   },
   {
@@ -36324,7 +36324,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Cupcake Hat",
-    "score": 445,
+    "score": 446,
     "id": 3220
   },
   {
@@ -36332,7 +36332,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Macaroni Penguin Slippers",
-    "score": 500,
+    "score": 501,
     "id": 3221
   },
   {
@@ -36340,7 +36340,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Kiwi Hat",
-    "score": 490,
+    "score": 491,
     "id": 3222
   },
   {
@@ -36348,7 +36348,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Glitzy Collar",
-    "score": 474,
+    "score": 475,
     "id": 3223
   },
   {
@@ -36356,7 +36356,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Ghostly Opera Glasses",
-    "score": 472,
+    "score": 473,
     "id": 3224
   },
   {
@@ -36364,7 +36364,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Dragon Eye Patch",
-    "score": 450,
+    "score": 451,
     "id": 3225
   },
   {
@@ -36372,7 +36372,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Spiderweb Coffin Backpack",
-    "score": 533,
+    "score": 534,
     "id": 3226
   },
   {
@@ -36380,7 +36380,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Festive Antlers",
-    "score": 459,
+    "score": 460,
     "id": 3227
   },
   {
@@ -36388,7 +36388,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Festive Striped Scarf",
-    "score": 460,
+    "score": 461,
     "id": 3228
   },
   {
@@ -36396,7 +36396,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Snowflake Earmuffs",
-    "score": 531,
+    "score": 532,
     "id": 3229
   },
   {
@@ -36404,7 +36404,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Ice Tiara",
-    "score": 487,
+    "score": 488,
     "id": 3230
   },
   {
@@ -36412,7 +36412,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Spiral Glasses",
-    "score": 691,
+    "score": 692,
     "id": 3231
   },
   {
@@ -36420,7 +36420,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Solar Winged Halo",
-    "score": 687,
+    "score": 688,
     "id": 3232
   },
   {
@@ -36428,7 +36428,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Magic Girl Sword",
-    "score": 648,
+    "score": 649,
     "id": 3233
   },
   {
@@ -36436,7 +36436,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Robo Arms Collar",
-    "score": 670,
+    "score": 671,
     "id": 3234
   },
   {
@@ -36444,7 +36444,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Battery Backpack",
-    "score": 570,
+    "score": 571,
     "id": 3235
   },
   {
@@ -36452,7 +36452,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Bubble Necklace",
-    "score": 576,
+    "score": 577,
     "id": 3236
   },
   {
@@ -36460,7 +36460,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Night In A Jar",
-    "score": 653,
+    "score": 654,
     "id": 3237
   },
   {
@@ -36468,7 +36468,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Instant Photo Necklace",
-    "score": 633,
+    "score": 634,
     "id": 3238
   },
   {
@@ -36476,7 +36476,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Doodle Glasses",
-    "score": 593,
+    "score": 594,
     "id": 3239
   },
   {
@@ -36484,7 +36484,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Camera Hat",
-    "score": 580,
+    "score": 581,
     "id": 3240
   },
   {
@@ -36492,7 +36492,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Grunge Bucket Hat",
-    "score": 626,
+    "score": 627,
     "id": 3241
   },
   {
@@ -36500,7 +36500,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Cyber Headphones",
-    "score": 588,
+    "score": 589,
     "id": 3242
   },
   {
@@ -36508,7 +36508,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Double Pearl Earrings",
-    "score": 594,
+    "score": 595,
     "id": 3243
   },
   {
@@ -36516,7 +36516,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Dragonfruit Feet",
-    "score": 595,
+    "score": 596,
     "id": 3244
   },
   {
@@ -36524,7 +36524,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Retro 3D Glasses",
-    "score": 668,
+    "score": 669,
     "id": 3245
   },
   {
@@ -36532,7 +36532,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Beach Necklace",
-    "score": 571,
+    "score": 572,
     "id": 3246
   },
   {
@@ -36540,7 +36540,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Virtual Pet Necklace",
-    "score": 709,
+    "score": 710,
     "id": 3247
   },
   {
@@ -36548,7 +36548,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Keyboard Necklace",
-    "score": 640,
+    "score": 641,
     "id": 3248
   },
   {
@@ -36556,7 +36556,7 @@
     "rarity": "common",
     "type": "pet wear",
     "name": "Toasty Mittens",
-    "score": 704,
+    "score": 705,
     "id": 3249
   },
   {
@@ -36564,7 +36564,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Cat Hood",
-    "score": 727,
+    "score": 728,
     "id": 3250
   },
   {
@@ -36572,7 +36572,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Heart Tiara",
-    "score": 749,
+    "score": 750,
     "id": 3251
   },
   {
@@ -36588,7 +36588,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Waffle Top Hat",
-    "score": 407,
+    "score": 408,
     "id": 3253
   },
   {
@@ -36596,7 +36596,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Cocoadile Cape",
-    "score": 439,
+    "score": 440,
     "id": 3254
   },
   {
@@ -36604,7 +36604,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Cocoadile Hat",
-    "score": 316,
+    "score": 317,
     "id": 3255
   },
   {
@@ -36748,7 +36748,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Waffle Coat",
-    "score": 710,
+    "score": 711,
     "id": 3273
   },
   {
@@ -36756,7 +36756,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Edible Candy Collar",
-    "score": 290,
+    "score": 291,
     "id": 3274
   },
   {
@@ -36764,7 +36764,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Waffle Staff",
-    "score": 542,
+    "score": 543,
     "id": 3275
   },
   {
@@ -36780,7 +36780,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Candy Copper Hat",
-    "score": 437,
+    "score": 438,
     "id": 3277
   },
   {
@@ -36796,7 +36796,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Gummy Goggles",
-    "score": 627,
+    "score": 628,
     "id": 3279
   },
   {
@@ -36804,7 +36804,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Candy Cliffs Hat",
-    "score": 436,
+    "score": 437,
     "id": 3280
   },
   {
@@ -37002,26 +37002,26 @@
     "id": 3293
   },
   {
-    "rvalue": 24.5,
-    "nvalue": 108,
-    "mvalue": 475,
-    "rvalue - nopotion": 24.5,
-    "rvalue - ride": 24.8,
-    "rvalue - fly": 24.85,
-    "rvalue - fly&ride": 25.25,
-    "nvalue - nopotion": 106,
-    "nvalue - ride": 107,
-    "nvalue - fly": 107,
-    "nvalue - fly&ride": 108,
-    "mvalue - nopotion": 472,
-    "mvalue - ride": 473,
-    "mvalue - fly": 473.75,
-    "mvalue - fly&ride": 475,
+    "rvalue": 25,
+    "nvalue": 112,
+    "mvalue": 490,
+    "rvalue - nopotion": 25,
+    "rvalue - ride": 25.3,
+    "rvalue - fly": 25.35,
+    "rvalue - fly&ride": 25.75,
+    "nvalue - nopotion": 110,
+    "nvalue - ride": 111,
+    "nvalue - fly": 111,
+    "nvalue - fly&ride": 112,
+    "mvalue - nopotion": 487,
+    "mvalue - ride": 488,
+    "mvalue - fly": 488.75,
+    "mvalue - fly&ride": 490,
     "fly&ride?": "\"false\"",
     "rarity": "legendary",
     "type": "pets",
     "name": "Tortoiseshell Guinea Pig",
-    "score": 19,
+    "score": 18,
     "id": 3294
   },
   {
@@ -37044,7 +37044,7 @@
     "rarity": "legendary",
     "type": "pets",
     "name": "Red Dutch Guinea Pig",
-    "score": 42,
+    "score": 41,
     "id": 3295
   },
   {
@@ -37091,7 +37091,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Whipped Cream Hat",
-    "score": 289,
+    "score": 290,
     "id": 3299
   },
   {
@@ -37099,7 +37099,7 @@
     "rarity": "ultra rare",
     "type": "pet wear",
     "name": "Gummy Aviator Scarf",
-    "score": 346,
+    "score": 347,
     "id": 3300
   },
   {
@@ -37107,7 +37107,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Cheesecake Hat",
-    "score": 312,
+    "score": 313,
     "id": 3301
   },
   {
@@ -37115,7 +37115,7 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Latte Cape",
-    "score": 642,
+    "score": 643,
     "id": 3302
   },
   {
@@ -37123,15 +37123,15 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Jiggly Shoes",
-    "score": 637,
+    "score": 638,
     "id": 3303
   },
   {
-    "value": 0.04,
+    "value": 0.15,
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Sugar Dice Hat",
-    "score": 769,
+    "score": 283,
     "id": 3304
   },
   {
@@ -37347,7 +37347,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Yarn Beanie",
-    "score": 288,
+    "score": 289,
     "id": 3331
   },
   {
@@ -37355,7 +37355,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Santa Beard",
-    "score": 388,
+    "score": 389,
     "id": 3332
   },
   {
@@ -37363,7 +37363,7 @@
     "rarity": "rare",
     "type": "pet wear",
     "name": "Nutcracker Hat",
-    "score": 370,
+    "score": 371,
     "id": 3333
   },
   {
@@ -37371,8 +37371,40 @@
     "rarity": "uncommon",
     "type": "pet wear",
     "name": "Bauble Necklace",
-    "score": 551,
+    "score": 552,
     "id": 3334
+  },
+  {
+    "value": 0.1,
+    "rarity": "rare",
+    "type": "strollers",
+    "name": "Santa's Helper Stroller",
+    "score": 58,
+    "id": 3335
+  },
+  {
+    "value": 0.7,
+    "rarity": "legendary",
+    "type": "vehicles",
+    "name": "Latte Motorcycle",
+    "score": 125,
+    "id": 3336
+  },
+  {
+    "value": 0.5,
+    "rarity": "common",
+    "type": "vehicles",
+    "name": "Shadow Dragon Skateboard",
+    "score": 143,
+    "id": 3337
+  },
+  {
+    "value": 0.4,
+    "rarity": "legendary",
+    "type": "vehicles",
+    "name": "Gummy Biplane",
+    "score": 155,
+    "id": 3338
   }
  ]
 }
